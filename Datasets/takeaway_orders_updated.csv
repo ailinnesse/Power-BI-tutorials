@@ -1,0 +1,727 @@
+order_id,restaurant_id,order_datetime,order_type,channel,item_name,quantity,unit_price_gbp,discount_gbp,service_charge_gbp,total_price_gbp,status,payment_method,postcode,order_ready,pickup_method
+1,8,2025-06-06 06:33:30,Takeaway,Deliveroo,Lamb Rogan Josh,3,9.23,1.5,0.0,26.19,Completed,Card,PR6 2YP,On Time,Person
+2,38,2025-08-22 12:13:14,Takeaway,Deliveroo,Caesar Salad,1,7.41,1.0,0.0,6.41,Completed,Google Pay,L0 4FY,On Time,Delivery Service
+3,15,2025-08-27 12:48:51,Takeaway,Phone,"Pepperoni Pizza (12"")",1,10.84,0.0,0.0,0.0,Cancelled,Cash,E1G 0XX,On Time,Person
+4,22,2025-06-21 12:22:54,Takeaway,Deliveroo,Pad Thai,1,10.32,2.0,0.0,8.32,Completed,Google Pay,G5S 5UW,On Time,Delivery Service
+5,35,2025-06-25 15:43:55,Takeaway,Website,Sushi Roll (8pc),2,6.89,0.0,1.0,14.78,Completed,Cash,WN5 0BJ,On Time,Person
+6,5,2025-06-10 07:33:25,Takeaway,Walk-in,Egg Fried Rice,2,4.97,2.0,0.0,7.94,Completed,Google Pay,PO8H 2XE,On Time,Delivery Service
+7,18,2025-08-28 18:10:23,Takeaway,Uber Eats,Pad Thai,2,8.15,0.0,0.0,16.3,Completed,Cash,G6 0TY,On Time,Person
+8,35,2025-07-18 19:17:59,Takeaway,Walk-in,Soft Drink (330ml),4,1.89,0.0,0.0,7.56,Completed,Cash,TR38 6PQ,On Time,Delivery Service
+9,3,2025-08-01 12:13:58,Takeaway,Deliveroo,Garlic Bread,1,4.25,0.0,0.0,4.25,Completed,Google Pay,M0J 2DA,On Time,Delivery Service
+10,26,2025-08-29 13:15:47,Takeaway,Just Eat,Fries,1,3.08,1.5,1.0,2.58,Completed,Google Pay,N9A 4PJ,On Time,Delivery Service
+11,24,2025-07-14 00:06:31,Takeaway,Walk-in,"Margherita Pizza (12"")",2,8.04,0.0,0.0,0.0,Cancelled,Cash,DG24 4WY,On Time,Delivery Service
+12,11,2025-08-22 19:24:38,Takeaway,Deliveroo,Falafel Wrap,4,6.35,1.0,0.0,24.4,Completed,Card,L40 8RN,On Time,Person
+13,35,2025-07-23 05:29:43,Takeaway,Just Eat,Chicken Chow Mein,2,6.5,0.5,0.0,12.5,Completed,Card,E1F 1LT,On Time,Person
+14,17,2025-09-06 14:54:01,Takeaway,Deliveroo,Caesar Salad,2,8.65,2.0,0.0,15.3,Completed,Cash,CH5 4TS,On Time,Delivery Service
+15,10,2025-08-13 00:33:53,Takeaway,Uber Eats,Fries,2,3.91,1.0,0.0,6.82,Completed,Apple Pay,RH5 8XU,On Time,Delivery Service
+16,32,2025-06-05 18:56:53,Takeaway,Walk-in,Egg Fried Rice,3,3.48,0.0,1.0,11.44,Completed,Card,TW6X 3LU,On Time,Delivery Service
+17,32,2025-06-14 20:33:13,Takeaway,Uber Eats,Fries,2,3.53,0.0,0.5,7.56,Completed,Cash,E6 6HA,On Time,Person
+18,17,2025-09-11 21:08:17,Takeaway,Deliveroo,Ramen,4,12.82,1.0,0.0,50.28,Completed,Apple Pay,WS4M 0UT,On Time,Delivery Service
+19,26,2025-08-12 20:28:07,Takeaway,Uber Eats,Lamb Rogan Josh,3,9.24,0.0,0.0,27.72,Completed,Cash,CH07 7TP,On Time,Person
+20,38,2025-07-14 21:40:03,Takeaway,Walk-in,Lamb Rogan Josh,1,8.37,0.0,0.0,8.37,Completed,Cash,S36 0SL,On Time,Person
+21,18,2025-09-03 13:46:59,Takeaway,Just Eat,Garlic Bread,3,3.65,0.0,0.5,11.45,Completed,Cash,OX0 5QQ,On Time,Person
+22,7,2025-06-20 05:43:49,Takeaway,Deliveroo,Pad Thai,1,9.33,0.5,0.0,8.83,Completed,Card,WA8R 7XX,On Time,Delivery Service
+23,4,2025-08-18 14:21:04,Takeaway,Just Eat,Doner Kebab,5,7.24,0.0,1.0,37.2,Completed,Cash,W0U 0ST,On Time,Delivery Service
+24,28,2025-07-07 13:55:59,Takeaway,Walk-in,Chicken Kebab,2,8.22,2.0,1.0,15.44,Completed,Card,SN7 6FH,On Time,Delivery Service
+25,35,2025-06-04 06:46:35,Takeaway,Phone,Lamb Rogan Josh,3,8.91,0.5,0.5,26.73,Completed,Google Pay,BL57 9HR,On Time,Person
+26,4,2025-07-03 19:16:59,Takeaway,Deliveroo,Falafel Wrap,1,5.5,1.5,1.0,5.0,Completed,Google Pay,NE14 1JQ,Late,Person
+27,10,2025-07-08 12:37:47,Takeaway,Walk-in,Fries,3,2.12,0.0,0.0,0.0,Cancelled,Google Pay,L7D 8FB,Late,Person
+28,33,2025-09-12 20:05:54,Takeaway,Just Eat,"Pepperoni Pizza (12"")",2,7.38,0.0,0.0,14.76,Completed,Card,EX9 1GY,On Time,Delivery Service
+29,37,2025-07-19 12:39:05,Takeaway,Website,Ramen,2,11.29,1.0,1.0,22.58,Completed,Apple Pay,S3 7WH,Late,Person
+30,14,2025-08-01 19:08:42,Takeaway,Walk-in,Soft Drink (330ml),1,1.5,0.0,0.0,1.5,Completed,Google Pay,LU3W 9DR,Late,Person
+32,5,2025-07-18 13:28:53,Takeaway,Walk-in,Fries,3,3.41,1.0,1.0,10.23,Completed,Apple Pay,G3C 1LG,On Time,Person
+33,7,2025-06-27 12:47:35,Takeaway,Deliveroo,"Margherita Pizza (12"")",1,7.09,1.0,0.0,6.09,Completed,Apple Pay,N7W 8JE,On Time,Person
+34,14,2025-07-22 18:57:58,Takeaway,Walk-in,Cheeseburger,2,4.96,0.5,0.0,9.42,Completed,Card,B8S 3WQ,On Time,Delivery Service
+35,22,2025-06-26 18:10:47,Takeaway,Walk-in,Falafel Wrap,3,6.43,0.5,1.0,19.79,Completed,Card,GY17 5BQ,On Time,Delivery Service
+36,5,2025-06-30 18:37:35,Takeaway,Website,"Margherita Pizza (12"")",2,7.72,0.0,0.0,15.44,Completed,Card,BN2R 7BE,On Time,Delivery Service
+37,23,2025-07-12 05:01:39,Takeaway,Just Eat,Bottled Water (500ml),2,0.88,2.0,1.0,0.76,Completed,Cash,SR9 1SA,Late,Delivery Service
+38,16,2025-07-02 23:18:47,Takeaway,Deliveroo,"Pepperoni Pizza (12"")",2,11.85,0.0,0.0,23.7,Completed,Apple Pay,CB8 6HR,On Time,Delivery Service
+39,27,2025-07-19 21:06:24,Takeaway,Just Eat,Cheeseburger,4,8.79,0.0,0.0,35.16,Completed,Apple Pay,LL46 6WB,Late,Delivery Service
+40,20,2025-07-15 21:12:25,Takeaway,Website,Chicken Chow Mein,1,7.25,0.0,0.0,7.25,Completed,Google Pay,DD0 6QU,On Time,Person
+41,35,2025-08-04 17:16:12,Takeaway,Uber Eats,Doner Kebab,1,10.39,0.0,0.0,10.39,Completed,Apple Pay,S6 5JF,On Time,Delivery Service
+42,3,2025-06-22 18:46:50,Takeaway,Just Eat,Chicken Chow Mein,1,7.96,1.0,0.0,6.96,Completed,Cash,RM70 2WB,On Time,Person
+43,17,2025-06-10 00:51:22,Takeaway,Deliveroo,Fish & Chips,4,9.88,2.0,1.0,38.52,Completed,Cash,W36 0SB,On Time,Person
+44,24,2025-08-24 21:58:21,Takeaway,Deliveroo,Naan,1,2.24,2.0,0.0,0.24,Completed,Apple Pay,AL1H 2EP,Late,Person
+45,33,2025-07-31 11:22:15,Takeaway,Phone,Chicken Chow Mein,4,7.81,0.0,1.0,32.24,Completed,Cash,N8J 9LS,On Time,Person
+46,27,2025-08-14 00:56:42,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",2,10.39,0.0,0.5,21.28,Completed,Card,NN36 2QD,On Time,Person
+47,20,2025-07-27 20:38:41,Takeaway,Uber Eats,Chicken Chow Mein,5,8.09,0.5,0.0,39.95,Completed,Google Pay,B66 3NL,On Time,Delivery Service
+48,11,2025-06-17 21:40:39,Takeaway,Deliveroo,Chicken Chow Mein,3,6.42,2.0,0.0,17.26,Completed,Apple Pay,DY7 1QX,Late,Person
+49,15,2025-07-10 12:15:30,Takeaway,Just Eat,Naan,1,2.99,0.0,0.5,3.49,Completed,Cash,G9 7ZD,Late,Delivery Service
+50,25,2025-09-05 13:41:44,Takeaway,Just Eat,Fish & Chips,2,12.3,2.0,0.0,22.6,Completed,Cash,L4G 1SP,Late,Person
+51,12,2025-09-09 20:15:58,Takeaway,Deliveroo,Doner Kebab,4,8.28,2.0,0.5,31.62,Completed,Apple Pay,B9E 7SU,On Time,Person
+52,29,2025-09-07 20:28:57,Takeaway,Website,"Pepperoni Pizza (12"")",5,11.09,0.5,0.5,55.45,Completed,Cash,HX77 1AU,On Time,Delivery Service
+53,18,2025-09-10 13:17:28,Takeaway,Website,Chicken Kebab,4,9.57,0.0,0.0,38.28,Completed,Apple Pay,G2 2YF,On Time,Delivery Service
+54,35,2025-06-17 13:24:44,Takeaway,Just Eat,"Margherita Pizza (12"")",1,8.83,0.0,0.5,9.33,Completed,Apple Pay,B3J 7FH,On Time,Person
+55,35,2025-08-30 13:53:26,Takeaway,Uber Eats,Sushi Roll (8pc),2,11.02,1.0,0.0,21.04,Completed,Google Pay,L9 6QU,On Time,Person
+56,31,2025-06-02 13:28:39,Takeaway,Uber Eats,Egg Fried Rice,1,4.51,2.0,0.5,3.01,Completed,Cash,KT8A 2NB,On Time,Person
+57,32,2025-07-14 19:01:24,Takeaway,Deliveroo,Chicken Chow Mein,2,9.01,2.0,0.5,16.52,Completed,Cash,E9D 3NL,On Time,Delivery Service
+58,30,2025-06-26 04:47:19,Takeaway,Uber Eats,Fries,4,2.05,0.5,1.0,8.7,Completed,Card,B79 0AD,On Time,Person
+59,6,2025-08-23 19:11:03,Takeaway,Website,Veggie Curry,2,7.71,0.0,0.5,15.92,Completed,Apple Pay,UB2W 7QN,Late,Delivery Service
+60,25,2025-07-25 10:46:11,Takeaway,Walk-in,Ramen,2,9.26,0.0,0.5,19.02,Completed,Card,SA9 5UH,On Time,Person
+61,23,2025-07-14 22:57:03,Takeaway,Phone,Soft Drink (330ml),3,1.24,0.0,0.0,3.72,Completed,Card,OL8 6FB,Late,Delivery Service
+63,39,2025-06-23 15:45:42,Takeaway,Walk-in,"Pepperoni Pizza (12"")",1,12.31,0.0,1.0,13.31,Completed,Apple Pay,W8S 9RF,On Time,Person
+64,37,2025-08-13 21:12:04,Takeaway,Walk-in,Garlic Bread,3,3.88,1.5,0.0,10.14,Completed,Apple Pay,E2T 1YR,On Time,Delivery Service
+65,39,2025-06-24 22:09:26,Takeaway,Just Eat,Garlic Bread,1,4.07,0.0,1.0,5.07,Completed,Apple Pay,N81 3FE,On Time,Delivery Service
+66,5,2025-09-07 12:54:26,Takeaway,Deliveroo,Burrito,2,6.42,0.0,0.5,13.34,Completed,Cash,S9 3AE,On Time,Delivery Service
+67,28,2025-07-05 14:51:27,Takeaway,Just Eat,Soft Drink (330ml),3,1.47,2.0,1.0,3.41,Completed,Google Pay,UB3 4GS,On Time,Person
+68,28,2025-09-24 13:53:59,Takeaway,Just Eat,Chicken Kebab,4,7.39,0.5,0.0,29.06,Completed,Google Pay,KW4Y 5HP,On Time,Delivery Service
+69,22,2025-06-06 18:11:31,Takeaway,Website,Chicken Tikka Masala,5,8.77,0.0,0.0,43.85,Completed,Apple Pay,L6T 3XB,On Time,Person
+70,36,2025-06-03 13:05:15,Takeaway,Deliveroo,Ramen,1,10.44,2.0,0.0,8.44,Completed,Google Pay,LS9M 3JL,On Time,Person
+71,32,2025-08-27 10:38:41,Takeaway,Website,Chicken Kebab,2,7.47,0.5,0.0,14.44,Completed,Apple Pay,KW3 3UU,On Time,Person
+72,31,2025-09-16 19:47:35,Takeaway,Website,Chicken Chow Mein,4,7.58,0.5,0.0,29.82,Completed,Apple Pay,W01 7QU,On Time,Person
+73,15,2025-06-24 20:17:49,Takeaway,Phone,Chicken Chow Mein,4,6.54,1.0,0.0,25.16,Completed,Cash,W9 6EB,On Time,Person
+74,31,2025-07-25 02:34:53,Takeaway,Website,Caesar Salad,4,7.39,0.0,0.0,29.56,Completed,Cash,DE10 5SL,On Time,Delivery Service
+75,24,2025-07-06 21:34:08,Takeaway,Website,Veggie Curry,3,6.2,0.0,1.0,19.6,Completed,Cash,SS6A 8AE,On Time,Person
+76,32,2025-06-21 08:05:35,Takeaway,Website,Garlic Bread,2,3.07,0.5,0.5,6.14,Completed,Cash,CF6R 4PR,Late,Delivery Service
+77,4,2025-07-20 10:38:04,Takeaway,Just Eat,Burrito,3,6.46,0.0,0.5,19.88,Completed,Card,TQ2X 5DJ,On Time,Delivery Service
+78,37,2025-06-11 20:19:05,Takeaway,Uber Eats,Lamb Rogan Josh,4,8.65,2.0,0.5,33.1,Completed,Cash,HP0V 7RZ,On Time,Delivery Service
+79,34,2025-08-14 19:19:55,Takeaway,Uber Eats,Garlic Bread,3,4.48,0.0,1.0,14.44,Completed,Card,DD3 7TX,On Time,Delivery Service
+81,12,2025-09-16 12:26:28,Takeaway,Phone,Brownie,3,2.89,0.0,0.0,8.67,Completed,Apple Pay,W32 8EH,Late,Person
+82,19,2025-08-28 13:59:16,Takeaway,Just Eat,Soft Drink (330ml),3,1.79,2.0,0.0,0.0,Refunded,Card,CF1E 1YE,On Time,Person
+83,35,2025-07-15 18:52:09,Takeaway,Uber Eats,Chicken Kebab,1,6.3,2.0,0.0,4.3,Completed,Apple Pay,B88 1UP,On Time,Delivery Service
+84,29,2025-06-25 18:44:25,Takeaway,Walk-in,Veggie Curry,2,8.25,0.5,0.5,16.5,Completed,Card,CW4 9GD,On Time,Delivery Service
+85,28,2025-08-03 12:05:14,Takeaway,Walk-in,Bottled Water (500ml),1,1.47,1.0,1.0,1.47,Completed,Apple Pay,EN2 5FA,On Time,Delivery Service
+86,37,2025-06-09 05:29:35,Takeaway,Website,"Pepperoni Pizza (12"")",4,9.59,1.5,0.5,37.36,Completed,Cash,LU6P 5LW,Late,Person
+87,38,2025-08-25 19:05:30,Takeaway,Phone,Pad Thai,2,9.25,0.0,0.0,0.0,Cancelled,Apple Pay,HP2 9EP,On Time,Delivery Service
+88,27,2025-09-05 19:52:48,Takeaway,Website,Fries,3,2.07,0.0,0.0,6.21,Completed,Apple Pay,L8E 0JH,Late,Delivery Service
+89,8,2025-08-18 21:35:32,Takeaway,Just Eat,Fish & Chips,3,10.77,1.0,0.5,31.81,Completed,Card,G72 6NN,On Time,Delivery Service
+90,13,2025-09-10 19:40:28,Takeaway,Website,Cheeseburger,1,5.52,1.0,0.0,4.52,Completed,Google Pay,SA5 7SR,Late,Delivery Service
+91,32,2025-06-24 21:38:51,Takeaway,Walk-in,Lamb Rogan Josh,2,11.9,0.0,1.0,24.8,Completed,Google Pay,LU3V 0ZJ,On Time,Delivery Service
+92,6,2025-07-15 01:10:51,Takeaway,Just Eat,Doner Kebab,2,8.31,0.0,0.0,16.62,Completed,Apple Pay,S06 8ZJ,Late,Delivery Service
+93,33,2025-07-24 19:30:15,Takeaway,Uber Eats,Falafel Wrap,3,6.43,0.5,0.0,18.79,Completed,Cash,GL9A 8XZ,On Time,Person
+94,5,2025-07-25 01:24:22,Takeaway,Website,Ramen,6,9.7,2.0,1.0,57.2,Completed,Card,FY26 3HJ,On Time,Person
+95,19,2025-07-29 09:22:15,Takeaway,Just Eat,Garlic Bread,1,4.5,0.5,0.0,4.0,Completed,Google Pay,DE5 7DW,On Time,Delivery Service
+96,23,2025-08-04 20:24:29,Takeaway,Uber Eats,Chicken Chow Mein,1,9.91,1.5,0.0,8.41,Completed,Google Pay,NW3 4XH,On Time,Delivery Service
+97,15,2025-08-20 21:30:45,Takeaway,Just Eat,Sushi Roll (8pc),4,8.43,1.5,0.0,32.22,Completed,Card,CB5P 2AN,On Time,Delivery Service
+98,9,2025-09-06 22:50:47,Takeaway,Walk-in,Chicken Chow Mein,6,9.91,2.0,0.5,57.96,Completed,Google Pay,N3 4TE,On Time,Person
+99,1,2025-06-29 21:09:04,Takeaway,Uber Eats,Burrito,3,9.13,0.0,0.0,27.39,Completed,Google Pay,G17 0LP,On Time,Person
+100,6,2025-08-04 05:13:35,Takeaway,Uber Eats,Fries,1,2.76,0.0,0.5,3.26,Completed,Card,L3W 0BS,On Time,Delivery Service
+102,29,2025-07-03 17:18:57,Takeaway,Website,Fish & Chips,1,6.8,2.0,0.0,4.8,Completed,Apple Pay,NN34 8RR,On Time,Delivery Service
+103,24,2025-08-24 20:26:36,Takeaway,Walk-in,Bottled Water (500ml),2,1.43,0.0,0.0,2.86,Completed,Google Pay,DA5B 2SZ,On Time,Person
+105,30,2025-07-27 06:27:38,Takeaway,Website,"Pepperoni Pizza (12"")",3,7.41,0.0,1.0,23.23,Completed,Google Pay,L1 0FA,Late,Delivery Service
+106,17,2025-08-29 03:00:33,Takeaway,Walk-in,Chicken Tikka Masala,1,12.0,2.0,0.5,10.5,Completed,Cash,W95 7XH,On Time,Person
+107,25,2025-09-20 18:44:18,Takeaway,Website,Fish & Chips,3,12.86,1.5,0.5,37.58,Completed,Card,MK7P 6PH,On Time,Person
+108,37,2025-06-10 22:33:45,Takeaway,Uber Eats,Burrito,1,9.33,0.0,0.0,9.33,Completed,Apple Pay,TQ0W 9YF,On Time,Person
+109,15,2025-07-08 21:48:46,Takeaway,Deliveroo,Bottled Water (500ml),1,1.34,0.0,0.0,1.34,Completed,Card,BR04 8TZ,On Time,Person
+110,20,2025-08-26 18:46:08,Takeaway,Phone,Chicken Kebab,3,10.55,0.0,0.5,32.15,Completed,Cash,W6F 2SJ,On Time,Person
+111,9,2025-09-14 03:49:20,Takeaway,Website,Pad Thai,1,9.92,0.0,0.0,9.92,Completed,Google Pay,M86 3AR,On Time,Person
+112,19,2025-08-06 04:31:38,Takeaway,Deliveroo,Falafel Wrap,1,7.87,0.0,0.0,7.87,Completed,Google Pay,CT7M 8LQ,On Time,Person
+113,36,2025-08-11 19:00:16,Takeaway,Uber Eats,Fries,3,2.25,0.0,0.0,6.75,Completed,Google Pay,B3 8YH,On Time,Person
+114,24,2025-06-22 10:55:45,Takeaway,Uber Eats,Burrito,3,6.1,1.0,0.0,17.3,Completed,Cash,E6 7RF,On Time,Delivery Service
+115,5,2025-08-30 13:38:36,Takeaway,Walk-in,Egg Fried Rice,1,4.3,0.0,0.0,4.3,Completed,Card,G8 2QJ,On Time,Delivery Service
+116,20,2025-09-05 13:56:34,Takeaway,Just Eat,"Margherita Pizza (12"")",2,7.55,0.0,1.0,16.1,Completed,Cash,BN91 7AW,On Time,Person
+117,27,2025-06-20 15:28:27,Takeaway,Deliveroo,Naan,1,2.37,0.0,0.0,2.37,Completed,Apple Pay,N3H 4RR,Late,Delivery Service
+118,14,2025-08-26 13:54:23,Takeaway,Deliveroo,Doner Kebab,2,10.9,0.0,1.0,22.8,Completed,Apple Pay,KA51 8NF,On Time,Person
+119,4,2025-08-17 12:54:52,Takeaway,Walk-in,Falafel Wrap,1,4.82,0.0,1.0,5.82,Completed,Card,N60 3XG,On Time,Person
+120,22,2025-07-18 17:06:47,Takeaway,Phone,Garlic Bread,1,2.91,2.0,1.0,1.91,Completed,Cash,M0 3RA,On Time,Delivery Service
+121,15,2025-08-04 05:11:54,Takeaway,Phone,Naan,4,1.8,2.0,0.0,5.2,Completed,Apple Pay,TQ1 7YY,On Time,Delivery Service
+122,12,2025-06-22 18:17:38,Takeaway,Uber Eats,Fish & Chips,3,7.36,0.0,0.0,22.08,Completed,Apple Pay,N6 5AH,On Time,Delivery Service
+123,2,2025-07-05 13:47:26,Takeaway,Just Eat,Caesar Salad,2,5.45,0.0,0.5,0.0,Refunded,Apple Pay,B00 2AN,On Time,Person
+124,33,2025-09-24 20:14:39,Takeaway,Website,Cheeseburger,1,8.14,2.0,1.0,7.14,Completed,Google Pay,B5J 5QY,On Time,Person
+125,2,2025-06-13 05:28:00,Takeaway,Deliveroo,Sushi Roll (8pc),1,8.63,0.0,0.5,9.13,Completed,Google Pay,S4 6NZ,On Time,Delivery Service
+126,5,2025-06-17 13:04:08,Takeaway,Deliveroo,Veggie Curry,1,8.81,1.0,1.0,8.81,Completed,Apple Pay,B1 1BE,On Time,Delivery Service
+127,25,2025-09-25 19:32:38,Takeaway,Deliveroo,Ramen,1,8.5,1.5,0.0,7.0,Completed,Cash,DL8 4QG,Late,Delivery Service
+128,28,2025-08-28 02:23:54,Takeaway,Just Eat,Ramen,2,9.69,0.5,0.5,19.38,Completed,Card,B1J 0GP,On Time,Delivery Service
+129,21,2025-08-23 18:23:09,Takeaway,Walk-in,Bottled Water (500ml),3,1.54,0.0,0.0,4.62,Completed,Card,IP06 1NU,On Time,Person
+130,28,2025-06-20 04:01:22,Takeaway,Uber Eats,Pad Thai,2,11.46,1.0,0.0,21.92,Completed,Apple Pay,G7 2SJ,On Time,Delivery Service
+131,8,2025-08-20 21:48:27,Takeaway,Website,Cheeseburger,1,9.34,1.0,0.0,8.34,Completed,Card,SE3 1XX,On Time,Delivery Service
+132,37,2025-09-07 21:30:14,Takeaway,Walk-in,Doner Kebab,2,7.75,1.0,0.0,14.5,Completed,Apple Pay,W81 6JW,On Time,Person
+133,37,2025-07-15 07:58:39,Takeaway,Uber Eats,Fries,3,3.95,2.0,1.0,10.85,Completed,Card,L4B 6NJ,On Time,Delivery Service
+134,39,2025-07-23 18:44:48,Takeaway,Phone,Egg Fried Rice,2,4.84,0.0,0.0,9.68,Completed,Cash,M9S 6ZA,On Time,Delivery Service
+135,37,2025-08-18 21:40:01,Takeaway,Just Eat,Chicken Kebab,3,9.73,0.0,0.5,29.69,Completed,Google Pay,N22 2NQ,Late,Person
+136,22,2025-07-01 21:20:49,Takeaway,Phone,Garlic Bread,1,3.69,0.0,0.0,3.69,Completed,Card,W3T 5JL,On Time,Delivery Service
+137,6,2025-07-24 19:31:38,Takeaway,Walk-in,Falafel Wrap,1,5.95,0.0,1.0,6.95,Completed,Apple Pay,G1 2TD,On Time,Person
+138,28,2025-06-22 21:37:31,Takeaway,Just Eat,Caesar Salad,1,7.67,0.0,0.0,7.67,Completed,Card,W8 9LN,On Time,Delivery Service
+139,1,2025-07-11 13:49:08,Takeaway,Just Eat,Veggie Curry,3,7.3,0.0,0.0,21.9,Completed,Google Pay,B2S 5BY,On Time,Person
+140,12,2025-06-26 21:14:32,Takeaway,Walk-in,Fries,2,3.67,2.0,0.0,5.34,Completed,Google Pay,KY6 7UY,On Time,Person
+141,3,2025-08-25 12:55:20,Takeaway,Website,Garlic Bread,3,3.36,0.5,0.5,10.08,Completed,Card,DD9N 4XX,On Time,Person
+142,26,2025-06-05 11:11:54,Takeaway,Deliveroo,"Pepperoni Pizza (12"")",3,11.41,1.0,0.5,33.73,Completed,Apple Pay,L0K 4TN,On Time,Delivery Service
+143,6,2025-08-25 05:13:27,Takeaway,Walk-in,Lamb Rogan Josh,4,10.4,0.5,1.0,42.1,Completed,Google Pay,L2S 7HG,On Time,Delivery Service
+144,20,2025-08-06 13:04:32,Takeaway,Website,Soft Drink (330ml),1,1.31,1.0,0.0,0.31,Completed,Apple Pay,W77 0YU,On Time,Delivery Service
+145,10,2025-07-17 18:12:11,Takeaway,Phone,Naan,2,2.01,2.0,0.0,2.02,Completed,Google Pay,DE29 4JS,On Time,Person
+146,30,2025-09-18 21:11:51,Takeaway,Website,Falafel Wrap,3,6.88,1.0,1.0,20.64,Completed,Apple Pay,G80 2QF,On Time,Delivery Service
+147,10,2025-08-25 19:40:19,Takeaway,Walk-in,Veggie Curry,3,8.66,0.0,1.0,26.98,Completed,Apple Pay,BH48 8DB,On Time,Person
+148,30,2025-08-28 18:53:18,Takeaway,Uber Eats,Chicken Kebab,3,9.22,2.0,0.0,25.66,Completed,Google Pay,E2 4YX,Late,Person
+149,30,2025-09-22 21:57:02,Takeaway,Website,Falafel Wrap,2,7.68,1.0,0.0,14.36,Completed,Google Pay,W3 9RP,On Time,Delivery Service
+150,33,2025-06-30 17:03:48,Takeaway,Deliveroo,Falafel Wrap,5,4.86,2.0,0.0,22.3,Completed,Card,M6 7FH,On Time,Delivery Service
+151,33,2025-07-04 21:28:28,Takeaway,Website,Caesar Salad,3,7.09,0.0,0.0,21.27,Completed,Apple Pay,G2K 5WL,On Time,Person
+152,25,2025-08-19 19:00:12,Takeaway,Walk-in,Bottled Water (500ml),3,1.28,2.0,0.0,1.84,Completed,Apple Pay,BS6W 7QJ,Late,Delivery Service
+153,7,2025-09-17 18:17:49,Takeaway,Phone,Egg Fried Rice,2,3.5,2.0,1.0,6.0,Completed,Apple Pay,BB19 6UL,On Time,Delivery Service
+154,6,2025-09-22 13:45:46,Takeaway,Phone,Pad Thai,1,8.71,1.5,0.5,7.71,Completed,Card,HA9B 8ZH,On Time,Delivery Service
+155,20,2025-09-17 18:52:08,Takeaway,Walk-in,Bottled Water (500ml),3,1.36,1.5,1.0,3.58,Completed,Google Pay,B5 8JA,On Time,Person
+156,33,2025-08-10 18:11:13,Takeaway,Phone,Chicken Chow Mein,2,10.26,0.5,0.0,20.02,Completed,Cash,ZE8P 1SN,On Time,Delivery Service
+157,10,2025-06-16 12:32:49,Takeaway,Deliveroo,Fries,3,3.67,1.0,0.0,10.01,Completed,Apple Pay,W73 1SY,On Time,Delivery Service
+159,3,2025-08-20 21:15:28,Takeaway,Phone,Naan,1,2.2,1.5,0.5,0.0,Refunded,Cash,L5C 1LJ,On Time,Delivery Service
+160,20,2025-08-31 11:46:16,Takeaway,Just Eat,Chicken Tikka Masala,1,8.84,1.0,0.5,8.34,Completed,Apple Pay,PL71 1FL,On Time,Delivery Service
+161,25,2025-09-07 13:52:12,Takeaway,Deliveroo,Naan,1,1.99,0.0,0.0,1.99,Completed,Google Pay,M3 6LS,On Time,Delivery Service
+162,24,2025-09-17 02:20:49,Takeaway,Website,Brownie,2,3.27,2.0,0.0,4.54,Completed,Card,L4 2AS,On Time,Delivery Service
+163,11,2025-07-24 20:09:53,Takeaway,Website,Ramen,2,8.46,0.0,0.5,17.42,Completed,Card,B4 5EG,On Time,Person
+164,27,2025-06-11 18:15:24,Takeaway,Walk-in,Chicken Kebab,4,7.87,0.0,0.0,31.48,Completed,Apple Pay,WV99 8QX,On Time,Person
+165,10,2025-06-28 19:44:53,Takeaway,Uber Eats,"Margherita Pizza (12"")",1,9.04,0.5,0.5,9.04,Completed,Card,G12 6DX,On Time,Person
+166,6,2025-06-05 13:35:46,Takeaway,Phone,Naan,1,2.54,0.0,0.0,2.54,Completed,Apple Pay,LL2 3TS,On Time,Person
+167,8,2025-06-10 21:50:39,Takeaway,Uber Eats,Falafel Wrap,1,4.72,2.0,0.5,3.22,Completed,Card,DL8N 8UY,On Time,Delivery Service
+168,33,2025-09-21 13:18:27,Takeaway,Just Eat,Fish & Chips,1,10.5,0.0,1.0,11.5,Completed,Cash,G62 8YX,On Time,Delivery Service
+169,6,2025-09-11 01:36:53,Takeaway,Uber Eats,Chicken Kebab,3,10.77,1.0,1.0,32.31,Completed,Card,BN3 2TJ,On Time,Person
+170,25,2025-08-31 19:23:16,Takeaway,Phone,Fish & Chips,2,8.82,0.0,0.0,17.64,Completed,Card,LU29 0EJ,On Time,Person
+171,38,2025-08-04 18:34:21,Takeaway,Deliveroo,Soft Drink (330ml),1,1.38,2.0,0.5,0.0,Completed,Google Pay,WC3V 1HP,On Time,Delivery Service
+172,12,2025-06-27 19:02:18,Takeaway,Website,Chicken Tikka Masala,2,7.22,0.0,0.0,14.44,Completed,Apple Pay,L2J 7UP,On Time,Delivery Service
+173,33,2025-08-17 17:51:30,Takeaway,Website,Fries,1,2.95,0.0,0.0,2.95,Completed,Apple Pay,TS75 1FB,On Time,Delivery Service
+174,4,2025-08-04 18:27:56,Takeaway,Phone,Sushi Roll (8pc),2,10.22,0.5,0.0,0.0,Cancelled,Google Pay,M65 1NX,On Time,Person
+175,32,2025-08-11 17:57:38,Takeaway,Walk-in,Caesar Salad,5,6.07,0.0,0.5,30.85,Completed,Google Pay,G3J 0DT,On Time,Delivery Service
+176,39,2025-07-06 18:06:05,Takeaway,Uber Eats,Chicken Chow Mein,2,8.97,0.0,0.5,18.44,Completed,Google Pay,HU3A 4RS,On Time,Delivery Service
+177,11,2025-08-26 12:46:55,Takeaway,Deliveroo,Pad Thai,2,10.38,0.5,0.0,20.26,Completed,Card,E7 5NW,On Time,Delivery Service
+178,5,2025-08-19 21:43:10,Takeaway,Walk-in,Fish & Chips,1,7.43,1.0,0.5,6.93,Completed,Cash,GY6R 9YX,On Time,Delivery Service
+179,5,2025-07-17 05:49:05,Takeaway,Uber Eats,Pad Thai,3,8.99,1.0,0.0,25.97,Completed,Cash,WF5 4QF,On Time,Delivery Service
+180,29,2025-08-12 12:36:08,Takeaway,Phone,Caesar Salad,4,6.47,0.0,0.0,25.88,Completed,Card,G7S 5NU,Late,Delivery Service
+181,2,2025-07-07 19:58:35,Takeaway,Phone,Doner Kebab,2,7.31,0.0,0.5,15.12,Completed,Apple Pay,SR0 6QT,On Time,Delivery Service
+182,32,2025-07-10 12:28:11,Takeaway,Deliveroo,Brownie,1,2.67,0.0,0.0,2.67,Completed,Apple Pay,M68 2HP,On Time,Person
+183,5,2025-09-16 18:54:10,Takeaway,Website,Brownie,1,3.06,1.5,0.0,1.56,Completed,Cash,JE00 1JL,On Time,Person
+184,8,2025-07-10 10:38:11,Takeaway,Uber Eats,Lamb Rogan Josh,2,12.35,0.0,0.0,24.7,Completed,Apple Pay,UB4N 7RE,Late,Delivery Service
+185,30,2025-09-16 12:04:19,Takeaway,Uber Eats,Sushi Roll (8pc),1,11.5,1.5,0.5,10.5,Completed,Google Pay,WR90 9WG,On Time,Delivery Service
+186,27,2025-09-21 18:41:04,Takeaway,Phone,Falafel Wrap,1,6.13,1.0,0.0,5.13,Completed,Cash,WA1X 4BW,On Time,Person
+187,9,2025-08-24 12:53:07,Takeaway,Website,Caesar Salad,2,5.61,0.0,0.0,11.22,Completed,Cash,HD6V 3PD,On Time,Delivery Service
+188,23,2025-09-10 04:14:20,Takeaway,Website,Chicken Kebab,2,7.25,1.5,1.0,14.0,Completed,Cash,WV7 0UT,On Time,Delivery Service
+189,20,2025-09-13 21:10:37,Takeaway,Deliveroo,Garlic Bread,2,2.81,1.5,1.0,5.12,Completed,Apple Pay,GY1 3WA,On Time,Person
+190,37,2025-06-09 09:58:45,Takeaway,Website,Fish & Chips,2,7.03,1.5,1.0,0.0,Cancelled,Cash,DE0 3GY,On Time,Person
+191,37,2025-08-21 12:31:56,Takeaway,Just Eat,Soft Drink (330ml),4,1.75,1.5,0.0,5.5,Completed,Cash,S4 1WU,On Time,Delivery Service
+192,26,2025-07-29 21:03:10,Takeaway,Website,Falafel Wrap,1,5.95,0.5,0.0,5.45,Completed,Cash,GY9 5BA,On Time,Delivery Service
+193,21,2025-08-02 10:07:20,Takeaway,Uber Eats,Pad Thai,2,12.36,0.0,0.0,24.72,Completed,Card,DH8 0XD,Late,Person
+194,21,2025-07-18 18:28:15,Takeaway,Uber Eats,"Margherita Pizza (12"")",3,6.39,0.0,0.5,19.67,Completed,Google Pay,BN2V 6SN,On Time,Delivery Service
+195,16,2025-07-02 10:15:15,Takeaway,Just Eat,Garlic Bread,6,3.94,0.0,0.0,23.64,Completed,Google Pay,S31 1TG,On Time,Delivery Service
+196,32,2025-07-31 12:25:32,Takeaway,Website,Falafel Wrap,1,7.88,0.0,1.0,8.88,Completed,Card,DH70 9AG,On Time,Delivery Service
+197,4,2025-07-26 21:43:30,Takeaway,Just Eat,Egg Fried Rice,2,4.07,2.0,0.0,6.14,Completed,Cash,PR39 9QX,On Time,Delivery Service
+198,17,2025-08-11 10:38:50,Takeaway,Uber Eats,Pad Thai,2,7.25,0.0,1.0,15.5,Completed,Cash,B30 4LG,Late,Delivery Service
+199,24,2025-09-16 19:32:28,Takeaway,Walk-in,Fries,1,2.56,1.0,1.0,2.56,Completed,Cash,PA03 8LH,Late,Person
+200,7,2025-08-16 18:35:23,Takeaway,Uber Eats,"Margherita Pizza (12"")",6,6.8,1.0,0.5,40.3,Completed,Card,TD50 0EL,On Time,Delivery Service
+201,3,2025-06-08 18:51:30,Takeaway,Phone,Caesar Salad,5,6.83,1.0,1.0,34.15,Completed,Apple Pay,M39 2EX,On Time,Person
+203,37,2025-07-29 12:23:21,Takeaway,Website,Bottled Water (500ml),1,0.89,0.5,1.0,1.39,Completed,Card,DY2X 0ER,On Time,Delivery Service
+204,39,2025-09-01 21:50:49,Takeaway,Uber Eats,Garlic Bread,2,3.66,1.5,0.0,5.82,Completed,Google Pay,TF47 2SP,On Time,Delivery Service
+205,11,2025-09-11 20:49:53,Takeaway,Walk-in,Sushi Roll (8pc),2,7.24,1.5,0.0,12.98,Completed,Card,E4 7QR,Late,Delivery Service
+206,13,2025-06-05 19:09:26,Takeaway,Just Eat,Brownie,2,2.31,1.0,1.0,4.62,Completed,Card,LD1 6HL,Late,Person
+207,9,2025-09-10 18:42:30,Takeaway,Uber Eats,Caesar Salad,4,6.51,0.0,0.5,26.54,Completed,Apple Pay,B5J 6ST,On Time,Person
+208,35,2025-08-09 05:05:49,Takeaway,Uber Eats,Bottled Water (500ml),1,1.31,1.5,0.0,0.0,Completed,Google Pay,L1 7YG,On Time,Person
+209,13,2025-07-19 18:14:19,Takeaway,Website,Egg Fried Rice,5,4.41,1.5,0.5,21.05,Completed,Google Pay,ME4 8GY,On Time,Delivery Service
+210,23,2025-09-18 06:03:41,Takeaway,Just Eat,Veggie Curry,1,7.3,1.0,1.0,7.3,Completed,Google Pay,CH0 3JU,On Time,Person
+211,23,2025-06-29 18:45:05,Takeaway,Deliveroo,Pad Thai,3,12.08,1.5,0.0,34.74,Completed,Google Pay,SL09 3YD,Late,Person
+212,14,2025-07-10 15:42:18,Takeaway,Phone,Veggie Curry,1,10.2,1.5,0.0,8.7,Completed,Card,TS7 5WQ,Late,Delivery Service
+214,22,2025-09-01 13:00:35,Takeaway,Deliveroo,"Pepperoni Pizza (12"")",1,9.24,0.5,0.5,9.24,Completed,Cash,S6 9XZ,On Time,Person
+215,19,2025-08-02 12:58:49,Takeaway,Deliveroo,Chicken Kebab,1,9.26,0.0,1.0,10.26,Completed,Card,PL0 8PY,On Time,Delivery Service
+216,12,2025-08-21 13:29:06,Takeaway,Just Eat,"Pepperoni Pizza (12"")",2,12.14,0.0,0.5,24.78,Completed,Cash,WR5 5AR,On Time,Person
+217,19,2025-06-08 20:38:06,Takeaway,Uber Eats,Chicken Chow Mein,3,7.28,1.5,1.0,21.34,Completed,Google Pay,B9 2FG,On Time,Delivery Service
+218,9,2025-09-07 13:51:07,Takeaway,Deliveroo,Chicken Chow Mein,6,6.73,0.5,0.0,39.88,Completed,Cash,GU3M 2ET,On Time,Person
+219,1,2025-08-05 21:03:23,Takeaway,Uber Eats,Garlic Bread,3,3.85,0.0,0.0,11.55,Completed,Google Pay,N3 8DS,On Time,Person
+220,28,2025-09-09 19:42:06,Takeaway,Phone,"Pepperoni Pizza (12"")",2,12.4,0.5,0.0,24.3,Completed,Card,E03 4ND,On Time,Delivery Service
+221,17,2025-08-14 18:21:19,Takeaway,Deliveroo,Garlic Bread,1,3.95,0.0,0.0,3.95,Completed,Apple Pay,KT5 2XG,On Time,Delivery Service
+222,16,2025-06-13 11:31:13,Takeaway,Deliveroo,Falafel Wrap,2,5.57,0.5,1.0,11.64,Completed,Apple Pay,W1 9NT,On Time,Delivery Service
+223,8,2025-07-28 13:14:08,Takeaway,Website,Burrito,1,6.61,1.5,1.0,6.11,Completed,Google Pay,N60 3AH,On Time,Delivery Service
+224,36,2025-08-31 20:13:04,Takeaway,Deliveroo,Bottled Water (500ml),2,1.46,2.0,0.0,0.92,Completed,Card,B8H 2HJ,On Time,Delivery Service
+225,34,2025-08-27 18:04:58,Takeaway,Uber Eats,Garlic Bread,2,2.72,2.0,1.0,4.44,Completed,Cash,G9G 2JR,On Time,Person
+226,37,2025-09-13 18:54:33,Takeaway,Just Eat,Falafel Wrap,2,4.91,0.0,1.0,10.82,Completed,Card,CW11 3UD,On Time,Delivery Service
+227,33,2025-08-26 22:05:59,Takeaway,Uber Eats,Falafel Wrap,4,4.96,0.5,0.5,19.84,Completed,Card,WF2E 5TG,On Time,Person
+228,36,2025-08-30 04:50:20,Takeaway,Walk-in,Egg Fried Rice,2,4.45,0.5,0.0,8.4,Completed,Cash,NP0 7BX,On Time,Delivery Service
+229,38,2025-06-15 18:44:04,Takeaway,Walk-in,Fries,1,3.99,0.0,0.5,0.0,Refunded,Apple Pay,W47 2GJ,On Time,Delivery Service
+230,27,2025-07-06 08:46:25,Takeaway,Website,Soft Drink (330ml),1,2.18,1.5,0.5,1.18,Completed,Google Pay,G9 8LQ,On Time,Person
+231,29,2025-08-13 21:42:55,Takeaway,Walk-in,Fries,1,2.27,2.0,0.0,0.27,Completed,Cash,KA07 3AZ,On Time,Person
+232,35,2025-08-16 21:14:53,Takeaway,Deliveroo,Fish & Chips,2,11.42,0.0,0.5,23.34,Completed,Google Pay,W1 2ET,Late,Delivery Service
+233,35,2025-08-14 01:33:23,Takeaway,Phone,Lamb Rogan Josh,2,10.53,0.0,0.0,21.06,Completed,Card,G3D 2WH,Late,Delivery Service
+234,3,2025-08-21 12:15:13,Takeaway,Uber Eats,Chicken Kebab,2,6.5,0.0,0.5,13.5,Completed,Card,W6 1LP,On Time,Delivery Service
+235,16,2025-06-10 13:34:13,Takeaway,Deliveroo,Cheeseburger,3,5.2,0.0,0.0,0.0,Cancelled,Apple Pay,EN25 9JL,On Time,Delivery Service
+236,37,2025-09-25 12:29:53,Takeaway,Phone,Chicken Chow Mein,5,7.07,0.0,1.0,36.35,Completed,Google Pay,B4 2HJ,On Time,Delivery Service
+237,20,2025-07-24 20:56:47,Takeaway,Just Eat,"Pepperoni Pizza (12"")",3,10.44,0.5,1.0,31.82,Completed,Card,WV5 9EN,On Time,Delivery Service
+238,23,2025-08-14 10:18:33,Takeaway,Website,Chicken Chow Mein,2,9.13,0.5,0.0,17.76,Completed,Google Pay,WD0V 2GB,On Time,Delivery Service
+239,12,2025-09-13 13:19:54,Takeaway,Uber Eats,Brownie,1,2.22,0.5,0.0,1.72,Completed,Google Pay,BL8 7NN,On Time,Delivery Service
+240,27,2025-09-17 19:15:16,Takeaway,Website,Chicken Tikka Masala,1,8.65,0.0,0.5,9.15,Completed,Card,N4 5TJ,On Time,Delivery Service
+241,35,2025-07-08 19:43:38,Takeaway,Uber Eats,Naan,2,1.86,0.0,0.0,3.72,Completed,Cash,DA42 0QF,Late,Delivery Service
+242,31,2025-07-11 23:29:37,Takeaway,Phone,Chicken Chow Mein,1,7.36,0.0,0.0,7.36,Completed,Card,E8J 8ST,On Time,Person
+243,31,2025-07-18 12:33:58,Takeaway,Website,Brownie,2,2.31,0.0,1.0,5.62,Completed,Apple Pay,KT8H 6AE,On Time,Delivery Service
+244,25,2025-08-30 18:19:16,Takeaway,Walk-in,Pad Thai,2,9.82,0.5,0.5,19.64,Completed,Google Pay,S7S 5PD,On Time,Person
+245,21,2025-07-10 19:02:36,Takeaway,Uber Eats,Lamb Rogan Josh,2,12.08,0.0,0.0,24.16,Completed,Google Pay,L91 4QD,On Time,Person
+246,19,2025-07-01 13:24:36,Takeaway,Website,Lamb Rogan Josh,4,10.75,1.5,0.0,41.5,Completed,Google Pay,M2 6NG,On Time,Delivery Service
+247,32,2025-08-29 18:10:08,Takeaway,Uber Eats,Fries,2,2.98,1.0,0.0,4.96,Completed,Card,JE9N 3BT,On Time,Delivery Service
+248,5,2025-06-10 20:05:36,Takeaway,Walk-in,Ramen,5,8.69,1.5,0.0,41.95,Completed,Cash,LE5 5HP,On Time,Delivery Service
+249,1,2025-07-13 18:03:39,Takeaway,Deliveroo,Soft Drink (330ml),3,1.87,1.0,0.5,5.11,Completed,Google Pay,RH21 5YP,On Time,Delivery Service
+250,2,2025-06-02 19:00:01,Takeaway,Walk-in,Caesar Salad,1,7.89,1.0,0.0,6.89,Completed,Google Pay,N0B 1UT,On Time,Person
+251,12,2025-06-22 04:43:57,Takeaway,Uber Eats,Caesar Salad,2,5.6,0.0,1.0,0.0,Cancelled,Apple Pay,CM6A 2UB,On Time,Person
+252,23,2025-07-23 07:49:24,Takeaway,Uber Eats,Chicken Kebab,3,7.87,0.5,0.5,23.61,Completed,Cash,NG2Y 1GL,On Time,Person
+253,15,2025-07-29 15:58:59,Takeaway,Walk-in,Chicken Kebab,4,9.27,2.0,0.0,35.08,Completed,Google Pay,CO16 6ZF,On Time,Person
+254,25,2025-08-13 12:40:00,Takeaway,Deliveroo,Brownie,1,2.26,0.5,0.5,2.26,Completed,Apple Pay,M61 6AQ,Late,Delivery Service
+255,37,2025-06-19 22:25:06,Takeaway,Just Eat,Cheeseburger,3,5.65,2.0,1.0,15.95,Completed,Apple Pay,LU7 5WG,Late,Person
+256,3,2025-06-15 20:29:13,Takeaway,Phone,Veggie Curry,3,10.05,1.0,0.0,29.15,Completed,Apple Pay,E6 7DS,On Time,Delivery Service
+257,2,2025-07-11 21:52:25,Takeaway,Uber Eats,Chicken Kebab,3,7.5,1.0,0.0,21.5,Completed,Google Pay,KT4Y 3ES,Late,Person
+258,35,2025-08-04 21:08:50,Takeaway,Walk-in,Brownie,3,3.09,1.0,0.0,8.27,Completed,Card,LA0 6RB,On Time,Delivery Service
+259,28,2025-07-16 11:52:10,Takeaway,Just Eat,Chicken Chow Mein,1,8.72,1.0,1.0,8.72,Completed,Apple Pay,G5C 5WW,Late,Person
+260,2,2025-07-24 11:47:46,Takeaway,Just Eat,Falafel Wrap,3,6.22,0.0,1.0,19.66,Completed,Google Pay,WC4W 8QZ,On Time,Delivery Service
+261,12,2025-09-23 04:22:33,Takeaway,Deliveroo,Chicken Kebab,2,9.86,0.0,0.0,19.72,Completed,Card,S3 4JS,On Time,Delivery Service
+262,6,2025-07-23 21:50:40,Takeaway,Walk-in,"Margherita Pizza (12"")",1,8.96,0.0,0.0,8.96,Completed,Card,S1 2WH,On Time,Delivery Service
+263,1,2025-07-31 18:06:08,Takeaway,Uber Eats,Chicken Kebab,1,6.94,0.5,1.0,0.0,Cancelled,Google Pay,TR47 8FA,On Time,Person
+264,7,2025-06-06 20:05:38,Takeaway,Walk-in,Naan,1,2.9,2.0,0.5,1.4,Completed,Apple Pay,DD3 6GX,On Time,Person
+265,27,2025-08-15 17:16:36,Takeaway,Uber Eats,Fries,3,3.81,0.0,1.0,12.43,Completed,Cash,IG9 1LL,On Time,Person
+266,25,2025-07-04 18:17:31,Takeaway,Just Eat,"Margherita Pizza (12"")",1,6.25,0.5,0.0,5.75,Completed,Apple Pay,RM0A 4PF,On Time,Delivery Service
+267,31,2025-06-16 13:46:40,Takeaway,Walk-in,Burrito,4,8.38,0.0,0.5,34.02,Completed,Cash,CV7 8PT,On Time,Person
+268,20,2025-06-02 17:32:17,Takeaway,Just Eat,Chicken Chow Mein,1,9.79,0.5,0.0,9.29,Completed,Apple Pay,OX8 2HE,On Time,Delivery Service
+269,28,2025-09-24 18:38:44,Takeaway,Website,Chicken Tikka Masala,1,9.4,0.0,0.5,9.9,Completed,Apple Pay,S8T 4FY,On Time,Delivery Service
+270,32,2025-09-21 05:47:31,Takeaway,Website,Chicken Chow Mein,2,7.69,2.0,0.5,13.88,Completed,Card,B42 7JY,On Time,Delivery Service
+271,37,2025-07-10 20:11:43,Takeaway,Deliveroo,Fries,2,2.05,1.5,0.5,0.0,Cancelled,Cash,B1 4LD,On Time,Delivery Service
+272,29,2025-07-27 23:42:06,Takeaway,Deliveroo,Chicken Kebab,2,10.09,2.0,0.5,18.68,Completed,Google Pay,S8E 2JL,On Time,Person
+273,9,2025-07-30 21:09:45,Takeaway,Uber Eats,Ramen,1,11.95,0.0,0.5,12.45,Completed,Google Pay,L22 9HL,On Time,Person
+274,38,2025-08-18 21:26:34,Takeaway,Uber Eats,Cheeseburger,3,8.45,0.0,1.0,26.35,Completed,Card,NP1 0TZ,On Time,Delivery Service
+275,7,2025-07-19 14:50:24,Takeaway,Uber Eats,Pad Thai,1,7.91,1.0,0.0,6.91,Completed,Google Pay,NW20 4XH,On Time,Delivery Service
+276,22,2025-08-24 12:16:14,Takeaway,Deliveroo,Caesar Salad,3,7.99,1.0,1.0,23.97,Completed,Cash,M5 4YL,On Time,Person
+277,29,2025-08-13 21:37:44,Takeaway,Walk-in,Caesar Salad,4,5.6,0.0,0.5,22.9,Completed,Apple Pay,N7 1QA,On Time,Delivery Service
+278,27,2025-06-18 21:09:22,Takeaway,Uber Eats,Egg Fried Rice,1,3.69,2.0,0.0,1.69,Completed,Google Pay,TA72 9YQ,Late,Person
+279,23,2025-09-01 21:44:28,Takeaway,Walk-in,Chicken Chow Mein,4,6.3,0.0,0.0,25.2,Completed,Apple Pay,SM08 9ZX,On Time,Delivery Service
+280,7,2025-07-03 07:56:44,Takeaway,Website,Lamb Rogan Josh,2,10.84,1.0,0.0,20.68,Completed,Google Pay,M5 5ZB,On Time,Delivery Service
+281,30,2025-07-16 10:31:30,Takeaway,Just Eat,Soft Drink (330ml),3,1.38,1.5,0.5,3.14,Completed,Card,EX2R 4XA,On Time,Person
+283,35,2025-07-07 13:29:07,Takeaway,Deliveroo,Veggie Curry,2,9.02,0.5,1.0,18.54,Completed,Apple Pay,M7 9AA,On Time,Person
+284,39,2025-08-15 20:07:22,Takeaway,Deliveroo,Pad Thai,3,11.65,1.0,0.0,33.95,Completed,Apple Pay,AL7 6DJ,On Time,Delivery Service
+286,33,2025-08-15 13:36:24,Takeaway,Deliveroo,Ramen,2,8.93,1.5,1.0,17.36,Completed,Cash,CF3A 5UD,On Time,Delivery Service
+287,36,2025-07-03 13:11:20,Takeaway,Walk-in,Falafel Wrap,4,6.67,2.0,0.0,24.68,Completed,Google Pay,N58 2NZ,On Time,Delivery Service
+288,9,2025-07-09 07:21:52,Takeaway,Deliveroo,Fries,2,3.01,0.5,0.5,6.02,Completed,Google Pay,RH2 4TD,On Time,Delivery Service
+289,27,2025-08-26 12:36:01,Takeaway,Uber Eats,Lamb Rogan Josh,2,9.61,0.0,0.0,19.22,Completed,Apple Pay,SY41 6YQ,On Time,Person
+290,11,2025-08-29 19:35:32,Takeaway,Website,Doner Kebab,2,8.86,0.0,1.0,18.72,Completed,Card,BS7A 5JL,On Time,Delivery Service
+291,29,2025-09-15 19:06:47,Takeaway,Just Eat,Soft Drink (330ml),2,1.95,0.0,0.0,3.9,Completed,Apple Pay,SK9 2SA,On Time,Person
+292,23,2025-06-18 12:49:51,Takeaway,Deliveroo,Lamb Rogan Josh,2,9.15,1.5,1.0,17.8,Completed,Apple Pay,SA1P 2SP,On Time,Person
+294,39,2025-09-14 21:18:18,Takeaway,Deliveroo,Garlic Bread,2,3.03,2.0,1.0,5.06,Completed,Card,S7 0RH,Late,Delivery Service
+295,9,2025-08-20 08:10:38,Takeaway,Phone,Veggie Curry,3,9.9,0.0,0.0,29.7,Completed,Cash,SN57 6RF,On Time,Delivery Service
+296,21,2025-07-19 11:41:19,Takeaway,Deliveroo,Bottled Water (500ml),3,1.11,0.0,1.0,4.33,Completed,Apple Pay,CO9 6HQ,On Time,Person
+297,27,2025-08-13 21:50:56,Takeaway,Deliveroo,Chicken Kebab,3,8.01,1.5,0.0,22.53,Completed,Apple Pay,NW68 8BP,On Time,Delivery Service
+298,30,2025-09-04 12:55:49,Takeaway,Walk-in,Chicken Kebab,2,9.65,0.5,0.0,18.8,Completed,Google Pay,B2G 7UB,Late,Person
+299,14,2025-08-23 20:16:55,Takeaway,Website,Burrito,1,7.07,2.0,0.0,5.07,Completed,Cash,SR2 5GA,On Time,Delivery Service
+300,37,2025-09-03 15:50:18,Takeaway,Deliveroo,Bottled Water (500ml),2,1.41,0.0,0.0,2.82,Completed,Google Pay,HU7V 2ZQ,On Time,Delivery Service
+301,2,2025-06-25 12:59:13,Takeaway,Phone,"Pepperoni Pizza (12"")",2,9.43,0.0,0.5,19.36,Completed,Cash,N01 0LQ,On Time,Delivery Service
+302,20,2025-07-02 06:53:19,Takeaway,Walk-in,Veggie Curry,4,6.42,0.0,0.0,25.68,Completed,Apple Pay,N11 2AP,On Time,Delivery Service
+303,11,2025-06-11 18:46:44,Takeaway,Walk-in,Lamb Rogan Josh,1,10.36,0.0,0.0,10.36,Completed,Cash,G21 5DY,On Time,Delivery Service
+304,31,2025-06-16 13:33:43,Takeaway,Walk-in,Falafel Wrap,1,4.53,1.5,0.0,3.03,Completed,Google Pay,L6K 5NF,On Time,Person
+305,9,2025-09-02 19:05:46,Takeaway,Phone,Doner Kebab,1,6.52,0.0,0.0,6.52,Completed,Google Pay,S39 7YH,On Time,Delivery Service
+306,9,2025-06-29 20:00:39,Takeaway,Deliveroo,Soft Drink (330ml),1,1.36,0.0,0.0,1.36,Completed,Cash,L5 4EB,Late,Delivery Service
+307,27,2025-08-26 07:39:29,Takeaway,Uber Eats,Chicken Kebab,2,10.48,0.0,0.0,20.96,Completed,Google Pay,W4 8TR,On Time,Delivery Service
+308,23,2025-08-23 13:15:17,Takeaway,Uber Eats,Soft Drink (330ml),3,1.28,1.0,1.0,3.84,Completed,Apple Pay,E20 6JR,On Time,Delivery Service
+309,2,2025-07-29 20:32:12,Takeaway,Just Eat,Sushi Roll (8pc),2,7.98,0.0,0.0,15.96,Completed,Google Pay,BN54 0PE,On Time,Delivery Service
+310,8,2025-07-18 20:04:33,Takeaway,Just Eat,Fish & Chips,1,12.91,0.0,0.0,12.91,Completed,Google Pay,LS25 6ZJ,On Time,Person
+311,24,2025-09-15 12:12:16,Takeaway,Walk-in,Burrito,4,9.82,2.0,0.0,37.28,Completed,Card,WA7 1ZE,On Time,Delivery Service
+312,1,2025-07-22 12:50:25,Takeaway,Just Eat,Caesar Salad,4,6.15,1.5,1.0,24.1,Completed,Google Pay,G96 9RG,On Time,Delivery Service
+313,26,2025-06-17 20:39:09,Takeaway,Phone,Veggie Curry,1,6.38,0.0,1.0,7.38,Completed,Cash,G1G 2FX,On Time,Delivery Service
+314,35,2025-08-03 21:48:53,Takeaway,Deliveroo,Soft Drink (330ml),1,1.88,0.0,0.0,1.88,Completed,Google Pay,PA09 8QJ,On Time,Person
+315,16,2025-06-12 19:07:29,Takeaway,Walk-in,Naan,1,2.65,0.0,0.0,2.65,Completed,Card,SS54 1PS,On Time,Person
+316,9,2025-06-03 18:33:33,Takeaway,Deliveroo,Veggie Curry,2,6.75,0.0,0.0,13.5,Completed,Card,HU5 7UU,On Time,Delivery Service
+317,2,2025-08-05 11:15:52,Takeaway,Deliveroo,Veggie Curry,4,8.36,0.0,1.0,34.44,Completed,Card,B6 3DY,On Time,Delivery Service
+318,32,2025-08-28 12:31:54,Takeaway,Walk-in,Garlic Bread,3,2.83,0.0,0.0,8.49,Completed,Card,S5J 0DR,On Time,Person
+319,15,2025-09-08 12:15:02,Takeaway,Walk-in,Burrito,1,7.46,0.0,0.0,7.46,Completed,Google Pay,DN8 2PZ,On Time,Delivery Service
+320,15,2025-08-02 21:20:17,Takeaway,Deliveroo,Chicken Kebab,3,8.86,0.0,1.0,27.58,Completed,Card,CR90 5PD,On Time,Delivery Service
+321,12,2025-07-14 18:07:03,Takeaway,Website,Cheeseburger,3,9.27,0.0,0.5,28.31,Completed,Apple Pay,SP8 4TX,On Time,Delivery Service
+322,21,2025-06-18 12:23:12,Takeaway,Phone,Egg Fried Rice,2,4.13,0.0,1.0,9.26,Completed,Google Pay,E37 6ES,On Time,Person
+323,24,2025-09-24 07:28:46,Takeaway,Phone,Chicken Tikka Masala,1,10.66,1.0,0.0,0.0,Cancelled,Card,L6 2LR,On Time,Delivery Service
+324,27,2025-06-06 18:40:53,Takeaway,Deliveroo,Brownie,2,3.32,0.0,0.0,6.64,Completed,Google Pay,M2 3HU,On Time,Person
+325,20,2025-06-21 13:26:31,Takeaway,Walk-in,Cheeseburger,2,9.36,0.0,0.0,18.72,Completed,Card,PH88 4PZ,On Time,Person
+326,15,2025-09-10 18:29:47,Takeaway,Deliveroo,Chicken Kebab,1,8.9,1.0,0.0,7.9,Completed,Google Pay,TN6 9QL,On Time,Person
+327,5,2025-09-24 19:42:08,Takeaway,Just Eat,Lamb Rogan Josh,2,9.6,2.0,0.0,17.2,Completed,Apple Pay,M59 4AG,On Time,Person
+328,21,2025-08-28 12:12:08,Takeaway,Just Eat,Garlic Bread,1,2.72,0.0,0.0,2.72,Completed,Google Pay,SL5Y 2TG,On Time,Person
+329,21,2025-08-19 18:49:13,Takeaway,Walk-in,Falafel Wrap,2,5.58,0.0,0.0,11.16,Completed,Cash,B8F 9XL,Late,Delivery Service
+330,20,2025-06-09 18:09:05,Takeaway,Uber Eats,Brownie,2,2.37,0.0,0.5,5.24,Completed,Card,NG9X 8GQ,On Time,Delivery Service
+331,20,2025-07-21 22:27:54,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",1,7.17,0.5,0.5,7.17,Completed,Cash,FY97 5FG,On Time,Person
+332,7,2025-08-30 13:07:00,Takeaway,Phone,Cheeseburger,2,8.65,0.0,0.0,17.3,Completed,Google Pay,BB29 6LE,On Time,Delivery Service
+333,24,2025-06-17 18:58:52,Takeaway,Deliveroo,Chicken Kebab,1,6.11,0.0,0.0,6.11,Completed,Google Pay,CV96 2RJ,On Time,Person
+334,9,2025-06-19 06:39:05,Takeaway,Phone,Chicken Chow Mein,1,6.55,0.5,0.0,6.05,Completed,Google Pay,SE69 4ZD,On Time,Delivery Service
+335,26,2025-09-05 21:27:11,Takeaway,Website,Pad Thai,1,8.18,0.0,0.0,8.18,Completed,Google Pay,CM5V 2SZ,On Time,Delivery Service
+336,10,2025-06-08 20:15:41,Takeaway,Walk-in,Egg Fried Rice,4,4.0,1.0,0.5,15.5,Completed,Card,PE2N 3QU,On Time,Delivery Service
+337,18,2025-08-14 13:41:56,Takeaway,Walk-in,Caesar Salad,1,6.0,2.0,1.0,5.0,Completed,Google Pay,ZE58 9RX,On Time,Person
+338,23,2025-09-02 19:22:58,Takeaway,Phone,Garlic Bread,3,3.5,0.5,0.0,10.0,Completed,Card,E0 3TE,On Time,Delivery Service
+339,21,2025-09-25 18:03:51,Takeaway,Phone,Burrito,4,8.12,2.0,1.0,31.48,Completed,Cash,G7 2EA,On Time,Person
+340,7,2025-07-19 13:05:51,Takeaway,Phone,Veggie Curry,2,8.4,2.0,0.0,14.8,Completed,Google Pay,S6K 0GD,On Time,Delivery Service
+341,23,2025-07-05 20:20:51,Takeaway,Deliveroo,Brownie,4,2.54,1.0,0.0,9.16,Completed,Apple Pay,NE25 8UY,On Time,Person
+342,37,2025-09-18 13:53:51,Takeaway,Walk-in,Burrito,3,8.17,0.0,0.5,25.01,Completed,Card,L2 1FY,On Time,Delivery Service
+343,4,2025-07-16 12:33:30,Takeaway,Phone,Fish & Chips,1,8.66,1.0,0.0,7.66,Completed,Apple Pay,OL04 3SG,On Time,Delivery Service
+344,12,2025-08-03 13:37:45,Takeaway,Website,"Margherita Pizza (12"")",2,9.1,2.0,1.0,17.2,Completed,Card,S9J 2HZ,On Time,Delivery Service
+345,24,2025-08-17 18:19:20,Takeaway,Deliveroo,"Margherita Pizza (12"")",2,9.9,1.5,0.5,18.8,Completed,Google Pay,W02 8JS,On Time,Delivery Service
+346,21,2025-07-05 05:50:35,Takeaway,Phone,Fries,2,3.39,1.0,0.0,5.78,Completed,Cash,E98 4XD,On Time,Delivery Service
+347,25,2025-07-30 23:53:59,Takeaway,Deliveroo,Egg Fried Rice,1,3.25,1.5,0.0,1.75,Completed,Google Pay,B6 0AN,On Time,Person
+348,37,2025-06-07 18:58:51,Takeaway,Just Eat,Naan,1,2.11,1.0,0.0,1.11,Completed,Cash,SP6 3XZ,On Time,Delivery Service
+349,22,2025-06-16 18:10:40,Takeaway,Just Eat,Chicken Kebab,3,10.11,1.5,0.0,0.0,Cancelled,Card,CW2 1QL,On Time,Person
+350,17,2025-07-12 12:22:16,Takeaway,Just Eat,Doner Kebab,4,9.6,0.0,0.5,38.9,Completed,Google Pay,L97 2WD,On Time,Person
+351,11,2025-08-20 19:22:34,Takeaway,Deliveroo,Sushi Roll (8pc),3,7.01,0.5,1.0,21.53,Completed,Cash,BA6E 7FH,On Time,Delivery Service
+352,11,2025-08-28 12:18:01,Takeaway,Website,Chicken Chow Mein,3,7.18,0.0,0.0,21.54,Completed,Cash,L33 1ZW,On Time,Delivery Service
+353,25,2025-07-02 15:52:09,Takeaway,Uber Eats,Fries,2,3.88,0.0,0.0,7.76,Completed,Google Pay,G5B 6HB,Late,Delivery Service
+354,2,2025-08-24 04:06:44,Takeaway,Walk-in,"Pepperoni Pizza (12"")",2,10.34,0.5,0.0,20.18,Completed,Card,E5 5LH,On Time,Delivery Service
+355,22,2025-07-11 07:56:04,Takeaway,Website,Ramen,4,11.49,1.5,1.0,45.46,Completed,Apple Pay,BT05 8TZ,Late,Delivery Service
+356,20,2025-07-17 19:36:35,Takeaway,Just Eat,Burrito,1,6.61,0.0,0.0,6.61,Completed,Card,E6S 7QN,On Time,Delivery Service
+357,19,2025-09-02 12:13:10,Takeaway,Walk-in,Soft Drink (330ml),2,1.49,0.0,0.5,3.48,Completed,Apple Pay,GU51 7XU,On Time,Delivery Service
+358,26,2025-08-31 21:16:05,Takeaway,Just Eat,Soft Drink (330ml),3,1.74,0.0,0.0,5.22,Completed,Apple Pay,M7 8BH,On Time,Delivery Service
+359,12,2025-08-26 19:29:16,Takeaway,Phone,Lamb Rogan Josh,4,12.6,1.0,0.0,49.4,Completed,Card,CT6 9GT,On Time,Person
+360,6,2025-08-07 04:11:02,Takeaway,Uber Eats,Ramen,3,12.85,1.0,0.0,37.55,Completed,Card,S53 5QS,On Time,Person
+361,25,2025-09-10 20:43:55,Takeaway,Website,Burrito,3,8.29,0.0,0.5,25.37,Completed,Card,SO0 8HN,On Time,Delivery Service
+362,26,2025-06-08 20:51:36,Takeaway,Just Eat,Bottled Water (500ml),2,1.59,0.0,0.0,3.18,Completed,Cash,S1T 3QW,On Time,Delivery Service
+363,11,2025-07-12 13:28:46,Takeaway,Phone,"Margherita Pizza (12"")",1,6.17,0.0,0.5,0.0,Cancelled,Cash,E29 0PD,On Time,Person
+364,39,2025-07-21 21:58:51,Takeaway,Uber Eats,Chicken Kebab,1,6.44,1.0,0.5,5.94,Completed,Apple Pay,DY43 5RE,Late,Delivery Service
+365,18,2025-09-10 12:50:44,Takeaway,Walk-in,Naan,2,2.62,2.0,0.5,3.74,Completed,Google Pay,N8 7QH,Late,Delivery Service
+366,10,2025-06-30 20:48:06,Takeaway,Uber Eats,Doner Kebab,2,8.81,0.0,0.0,17.62,Completed,Apple Pay,HP7 2EA,On Time,Delivery Service
+367,27,2025-07-22 19:36:38,Takeaway,Phone,Burrito,2,6.15,0.0,0.5,12.8,Completed,Google Pay,LE56 6QE,On Time,Delivery Service
+368,3,2025-08-17 06:31:40,Takeaway,Website,Chicken Chow Mein,2,9.11,0.0,0.5,18.72,Completed,Apple Pay,JE5 8YX,On Time,Delivery Service
+369,2,2025-08-06 00:34:12,Takeaway,Deliveroo,Egg Fried Rice,4,3.62,2.0,0.5,12.98,Completed,Card,SN5 5SE,On Time,Person
+370,15,2025-06-27 21:28:49,Takeaway,Deliveroo,Chicken Chow Mein,1,7.21,0.5,1.0,7.71,Completed,Card,L64 6WE,On Time,Delivery Service
+371,13,2025-08-26 19:47:31,Takeaway,Uber Eats,Caesar Salad,3,8.47,2.0,0.0,23.41,Completed,Cash,DG1M 0BR,On Time,Delivery Service
+372,5,2025-07-31 19:56:19,Takeaway,Uber Eats,Sushi Roll (8pc),1,7.18,2.0,1.0,6.18,Completed,Card,HX99 1AZ,On Time,Delivery Service
+373,12,2025-07-08 20:20:33,Takeaway,Just Eat,Chicken Tikka Masala,4,11.18,0.0,0.0,44.72,Completed,Card,WS9 5RW,On Time,Person
+374,24,2025-07-10 19:32:25,Takeaway,Phone,Soft Drink (330ml),3,2.12,1.5,0.0,4.86,Completed,Apple Pay,L7G 5WX,On Time,Person
+375,32,2025-09-24 19:37:35,Takeaway,Deliveroo,Pad Thai,2,8.89,2.0,0.0,15.78,Completed,Card,ML7 7ZZ,On Time,Delivery Service
+376,19,2025-06-06 13:54:36,Takeaway,Deliveroo,Chicken Tikka Masala,1,11.29,1.5,0.0,9.79,Completed,Cash,B9K 0XH,On Time,Delivery Service
+377,18,2025-08-19 21:00:30,Takeaway,Phone,"Margherita Pizza (12"")",1,8.59,1.0,0.0,7.59,Completed,Apple Pay,RH9R 7AT,Late,Delivery Service
+378,39,2025-07-30 17:32:43,Takeaway,Website,Brownie,1,2.96,0.5,0.5,2.96,Completed,Google Pay,L7 9PG,On Time,Delivery Service
+379,17,2025-07-13 21:33:52,Takeaway,Uber Eats,Naan,1,2.36,0.0,0.0,2.36,Completed,Apple Pay,LL6 0TF,On Time,Delivery Service
+380,36,2025-09-24 18:43:06,Takeaway,Website,Burrito,3,6.26,0.0,0.0,18.78,Completed,Apple Pay,SE1 6ZB,On Time,Person
+381,20,2025-07-07 13:57:03,Takeaway,Deliveroo,Naan,4,2.37,0.0,0.0,9.48,Completed,Card,HS81 7HA,On Time,Person
+382,32,2025-07-28 19:25:24,Takeaway,Website,Cheeseburger,1,7.42,1.0,0.0,6.42,Completed,Cash,B4G 6DN,On Time,Person
+383,35,2025-09-01 19:05:12,Takeaway,Deliveroo,Bottled Water (500ml),3,1.09,0.0,0.0,3.27,Completed,Cash,ST2H 0XT,On Time,Person
+384,19,2025-06-20 21:16:46,Takeaway,Deliveroo,Fries,1,3.53,0.0,0.0,3.53,Completed,Card,N7 0WJ,On Time,Delivery Service
+385,15,2025-08-09 18:26:50,Takeaway,Just Eat,Chicken Chow Mein,2,7.67,1.0,0.0,14.34,Completed,Card,B1D 0ZL,On Time,Delivery Service
+386,31,2025-06-11 20:09:09,Takeaway,Just Eat,Garlic Bread,4,3.66,1.0,0.0,13.64,Completed,Cash,TS64 6AZ,On Time,Delivery Service
+387,33,2025-06-24 16:22:57,Takeaway,Phone,Sushi Roll (8pc),2,9.15,0.5,0.0,17.8,Completed,Cash,KA7 1JZ,On Time,Delivery Service
+388,13,2025-08-06 20:57:58,Takeaway,Walk-in,Falafel Wrap,3,5.0,2.0,0.0,13.0,Completed,Google Pay,G4G 7UU,On Time,Person
+389,22,2025-07-05 12:00:28,Takeaway,Uber Eats,Veggie Curry,1,6.94,2.0,0.0,4.94,Completed,Cash,L9B 7HR,Late,Delivery Service
+390,32,2025-06-18 19:40:27,Takeaway,Walk-in,Sushi Roll (8pc),2,8.65,0.5,0.5,17.3,Completed,Card,PH9 1LJ,On Time,Person
+391,35,2025-07-10 03:20:15,Takeaway,Phone,Fish & Chips,3,12.3,2.0,1.0,35.9,Completed,Card,S00 7RN,On Time,Person
+392,1,2025-07-19 18:19:08,Takeaway,Phone,Doner Kebab,4,7.92,1.0,0.0,30.68,Completed,Card,S32 4PN,On Time,Delivery Service
+393,3,2025-07-29 07:43:23,Takeaway,Website,Falafel Wrap,1,7.05,1.0,1.0,7.05,Completed,Google Pay,L01 3QQ,On Time,Delivery Service
+394,9,2025-08-06 23:15:02,Takeaway,Just Eat,Burrito,1,7.44,0.0,0.0,7.44,Completed,Card,G2 3QA,On Time,Person
+395,15,2025-07-14 23:24:47,Takeaway,Uber Eats,"Margherita Pizza (12"")",1,6.84,0.0,1.0,7.84,Completed,Cash,S94 4ZH,On Time,Delivery Service
+396,8,2025-08-11 14:26:23,Takeaway,Uber Eats,Cheeseburger,1,6.38,1.5,0.0,4.88,Completed,Card,G5U 3TD,Late,Delivery Service
+397,39,2025-06-10 17:30:41,Takeaway,Just Eat,Soft Drink (330ml),1,2.04,0.0,0.0,2.04,Completed,Google Pay,LE0P 2YA,Late,Delivery Service
+398,25,2025-06-25 19:44:09,Takeaway,Website,Chicken Tikka Masala,1,10.48,1.5,0.0,8.98,Completed,Google Pay,IG7R 4LY,On Time,Delivery Service
+399,7,2025-09-10 20:44:08,Takeaway,Deliveroo,Ramen,2,12.15,0.0,1.0,25.3,Completed,Card,L0 4SP,On Time,Delivery Service
+400,19,2025-06-23 13:20:13,Takeaway,Uber Eats,Burrito,2,6.79,0.0,0.0,0.0,Cancelled,Cash,FY3 8QJ,On Time,Delivery Service
+401,23,2025-08-19 12:35:31,Takeaway,Phone,Chicken Tikka Masala,1,10.44,0.5,0.0,9.94,Completed,Card,SW2 6RU,On Time,Delivery Service
+402,1,2025-06-18 16:46:59,Takeaway,Uber Eats,Garlic Bread,3,3.84,0.0,0.0,11.52,Completed,Card,N9 7FS,On Time,Delivery Service
+403,7,2025-07-21 19:18:16,Takeaway,Walk-in,Falafel Wrap,2,4.68,2.0,0.0,7.36,Completed,Apple Pay,HP68 4PJ,Late,Person
+404,24,2025-08-01 12:06:54,Takeaway,Website,Cheeseburger,2,4.55,0.0,0.0,9.1,Completed,Apple Pay,S96 1AX,On Time,Delivery Service
+405,29,2025-07-23 12:24:44,Takeaway,Walk-in,Chicken Kebab,2,7.86,0.0,0.0,15.72,Completed,Google Pay,IP54 3JB,On Time,Person
+406,26,2025-08-29 19:44:54,Takeaway,Walk-in,Burrito,5,9.2,1.5,0.0,0.0,Refunded,Cash,RM96 7NH,On Time,Delivery Service
+407,4,2025-07-02 20:30:51,Takeaway,Just Eat,Garlic Bread,1,3.86,0.0,1.0,4.86,Completed,Apple Pay,N6 9UP,On Time,Person
+409,3,2025-06-13 18:00:45,Takeaway,Deliveroo,Bottled Water (500ml),2,1.22,1.5,1.0,1.94,Completed,Cash,L4 3AL,On Time,Delivery Service
+410,22,2025-09-10 21:39:06,Takeaway,Website,Ramen,4,11.31,0.0,0.5,45.74,Completed,Google Pay,B1 5AR,On Time,Delivery Service
+411,10,2025-09-17 20:04:21,Takeaway,Uber Eats,Naan,2,1.88,1.5,0.0,2.26,Completed,Google Pay,DD04 2QR,On Time,Person
+412,32,2025-07-03 19:20:15,Takeaway,Phone,Chicken Chow Mein,3,10.37,0.0,1.0,32.11,Completed,Google Pay,CH8X 2XH,On Time,Person
+413,26,2025-07-17 19:51:36,Takeaway,Website,Falafel Wrap,3,4.81,0.5,0.5,14.43,Completed,Card,G39 8NS,On Time,Delivery Service
+414,32,2025-06-04 19:02:35,Takeaway,Uber Eats,Fries,3,2.0,0.0,1.0,7.0,Completed,Apple Pay,AB3 8RP,On Time,Person
+415,33,2025-09-18 21:29:21,Takeaway,Just Eat,Pad Thai,2,11.54,2.0,0.0,21.08,Completed,Apple Pay,CA3 6ZG,Late,Person
+416,36,2025-09-25 21:23:45,Takeaway,Walk-in,Falafel Wrap,2,4.9,2.0,0.0,7.8,Completed,Apple Pay,EN8N 6NZ,On Time,Delivery Service
+417,23,2025-07-28 18:44:06,Takeaway,Deliveroo,Cheeseburger,2,8.98,0.5,0.0,17.46,Completed,Google Pay,N35 7LJ,On Time,Delivery Service
+418,7,2025-07-20 13:07:59,Takeaway,Deliveroo,Sushi Roll (8pc),6,7.58,2.0,0.0,43.48,Completed,Apple Pay,SO6 3FE,On Time,Delivery Service
+419,7,2025-08-20 21:53:43,Takeaway,Deliveroo,Garlic Bread,1,2.75,0.5,0.5,2.75,Completed,Cash,N6 1AQ,On Time,Delivery Service
+420,32,2025-06-02 12:35:59,Takeaway,Phone,Ramen,2,12.19,0.5,1.0,0.0,Cancelled,Cash,HP5M 0XJ,On Time,Delivery Service
+421,9,2025-06-21 20:38:56,Takeaway,Uber Eats,Chicken Chow Mein,1,8.27,0.5,0.5,8.27,Completed,Cash,TF02 3YG,Late,Person
+422,18,2025-08-17 16:12:30,Takeaway,Just Eat,Egg Fried Rice,2,3.91,0.0,0.0,7.82,Completed,Apple Pay,KA68 6HS,On Time,Delivery Service
+423,36,2025-08-01 08:55:49,Takeaway,Uber Eats,Fries,1,3.27,0.0,0.0,0.0,Cancelled,Apple Pay,TF0N 0RD,On Time,Person
+424,23,2025-06-27 04:17:42,Takeaway,Uber Eats,Soft Drink (330ml),2,2.18,0.0,1.0,5.36,Completed,Apple Pay,W2G 9QS,On Time,Delivery Service
+425,8,2025-08-08 20:36:42,Takeaway,Website,Brownie,2,2.63,1.5,1.0,4.76,Completed,Google Pay,CO0 2XR,On Time,Delivery Service
+426,1,2025-09-10 19:09:03,Takeaway,Website,Bottled Water (500ml),2,0.85,0.0,0.0,1.7,Completed,Apple Pay,SS0V 2EF,On Time,Delivery Service
+427,10,2025-06-13 11:05:38,Takeaway,Website,Egg Fried Rice,1,3.41,1.0,0.0,2.41,Completed,Google Pay,E0K 6NG,Late,Delivery Service
+428,7,2025-09-18 12:34:25,Takeaway,Deliveroo,Soft Drink (330ml),3,1.76,0.0,1.0,6.28,Completed,Apple Pay,S60 7AJ,On Time,Delivery Service
+429,4,2025-08-14 21:20:35,Takeaway,Uber Eats,Cheeseburger,1,4.56,0.0,0.0,4.56,Completed,Google Pay,SR47 0AF,Late,Delivery Service
+430,15,2025-08-11 19:47:52,Takeaway,Website,Fries,2,3.48,0.0,0.0,6.96,Completed,Google Pay,CV3H 2BS,On Time,Person
+431,12,2025-06-15 13:47:32,Takeaway,Uber Eats,Doner Kebab,1,7.89,0.5,0.0,7.39,Completed,Apple Pay,RG4 9HQ,On Time,Delivery Service
+432,9,2025-07-02 18:00:21,Takeaway,Phone,Falafel Wrap,3,6.98,0.0,0.0,20.94,Completed,Apple Pay,B73 1AN,On Time,Delivery Service
+433,39,2025-06-11 07:00:12,Takeaway,Just Eat,Soft Drink (330ml),4,1.82,1.5,0.0,5.78,Completed,Apple Pay,E9F 5DS,On Time,Delivery Service
+434,5,2025-08-02 13:33:04,Takeaway,Just Eat,Caesar Salad,2,5.64,1.0,1.0,11.28,Completed,Card,G17 2WJ,On Time,Person
+435,23,2025-07-14 08:51:27,Takeaway,Phone,Bottled Water (500ml),4,1.07,0.0,0.0,4.28,Completed,Google Pay,PE3 1LS,On Time,Delivery Service
+436,36,2025-06-03 18:28:15,Takeaway,Walk-in,Soft Drink (330ml),1,1.81,1.0,0.0,0.81,Completed,Apple Pay,BR75 0EG,On Time,Delivery Service
+437,25,2025-06-23 20:46:18,Takeaway,Uber Eats,Fish & Chips,1,12.42,2.0,0.0,10.42,Completed,Google Pay,CM2E 6BE,On Time,Delivery Service
+438,32,2025-06-09 21:12:20,Takeaway,Uber Eats,Caesar Salad,2,5.33,0.0,0.0,10.66,Completed,Card,W95 9GH,On Time,Person
+439,5,2025-07-12 08:18:46,Takeaway,Phone,Chicken Tikka Masala,1,11.32,0.5,0.0,10.82,Completed,Google Pay,TN8E 9LJ,On Time,Person
+440,5,2025-07-01 21:21:02,Takeaway,Uber Eats,Chicken Kebab,1,6.37,0.0,0.0,6.37,Completed,Card,N0 7XZ,On Time,Person
+441,37,2025-07-15 14:54:19,Takeaway,Just Eat,Ramen,3,9.94,1.5,0.5,28.82,Completed,Apple Pay,E0 9UA,Late,Person
+442,2,2025-08-16 01:12:36,Takeaway,Walk-in,Fries,1,2.01,1.5,1.0,1.51,Completed,Card,N11 5EH,On Time,Person
+443,5,2025-08-09 21:00:12,Takeaway,Uber Eats,Doner Kebab,3,7.45,1.5,0.0,20.85,Completed,Card,B9 4JE,On Time,Person
+444,19,2025-08-25 21:01:30,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",1,9.93,0.0,0.5,10.43,Completed,Apple Pay,DH4 0ZN,On Time,Delivery Service
+445,10,2025-07-29 07:02:38,Takeaway,Uber Eats,Soft Drink (330ml),4,1.57,0.0,1.0,7.28,Completed,Cash,CA9 9GG,Late,Delivery Service
+446,8,2025-06-09 20:25:34,Takeaway,Deliveroo,Fries,1,3.89,0.0,0.0,3.89,Completed,Apple Pay,N3 0YW,On Time,Person
+447,14,2025-08-20 13:06:33,Takeaway,Uber Eats,Caesar Salad,1,5.57,0.0,0.0,5.57,Completed,Apple Pay,ME8 6QD,On Time,Person
+448,13,2025-06-23 20:54:03,Takeaway,Website,Fries,2,2.92,1.0,0.0,4.84,Completed,Card,L62 0QN,On Time,Delivery Service
+449,17,2025-06-20 20:31:21,Takeaway,Walk-in,Pad Thai,2,7.71,1.5,0.0,13.92,Completed,Apple Pay,N4 5TN,On Time,Delivery Service
+451,38,2025-07-01 18:51:20,Takeaway,Phone,Ramen,5,8.84,0.0,0.0,44.2,Completed,Google Pay,AL2M 1WU,On Time,Delivery Service
+452,18,2025-08-10 21:21:56,Takeaway,Just Eat,Burrito,1,7.85,0.0,0.0,7.85,Completed,Card,LN4E 0SY,On Time,Person
+453,12,2025-06-17 08:01:30,Takeaway,Deliveroo,"Margherita Pizza (12"")",2,9.57,0.0,0.0,19.14,Completed,Card,L4 3ZR,On Time,Delivery Service
+454,5,2025-06-05 00:49:24,Takeaway,Just Eat,Soft Drink (330ml),2,1.23,1.0,1.0,2.46,Completed,Cash,LA65 2YL,On Time,Delivery Service
+455,3,2025-09-16 20:30:41,Takeaway,Deliveroo,"Margherita Pizza (12"")",2,7.46,0.0,1.0,15.92,Completed,Apple Pay,L84 0TX,On Time,Delivery Service
+456,9,2025-08-30 12:25:23,Takeaway,Deliveroo,Caesar Salad,3,5.04,0.0,1.0,16.12,Completed,Cash,DA7 1DD,Late,Delivery Service
+457,33,2025-06-28 13:36:36,Takeaway,Website,Bottled Water (500ml),2,1.5,0.0,0.5,3.5,Completed,Card,PH7H 7RY,On Time,Delivery Service
+458,15,2025-09-04 18:23:14,Takeaway,Just Eat,Cheeseburger,2,7.84,1.0,0.0,14.68,Completed,Google Pay,N3 1TD,On Time,Person
+459,30,2025-06-10 21:20:06,Takeaway,Deliveroo,Brownie,3,3.45,1.5,0.0,8.85,Completed,Apple Pay,S3K 5NZ,On Time,Delivery Service
+460,38,2025-09-15 19:41:24,Takeaway,Uber Eats,Pad Thai,2,10.23,2.0,0.0,18.46,Completed,Apple Pay,DL8 9SB,On Time,Delivery Service
+461,25,2025-07-14 18:52:55,Takeaway,Walk-in,Pad Thai,2,9.68,0.5,1.0,19.86,Completed,Cash,TD3E 4ZQ,Late,Delivery Service
+462,29,2025-07-03 20:41:17,Takeaway,Uber Eats,Chicken Tikka Masala,2,7.75,0.0,0.0,15.5,Completed,Card,BB4 2WQ,On Time,Delivery Service
+463,15,2025-08-20 22:14:23,Takeaway,Phone,Doner Kebab,3,8.41,0.5,0.5,25.23,Completed,Cash,DY3 3QZ,On Time,Person
+464,27,2025-06-05 13:36:37,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",1,7.74,1.0,0.0,6.74,Completed,Cash,NE2 5HR,On Time,Person
+465,4,2025-07-03 13:33:25,Takeaway,Deliveroo,Naan,2,3.16,1.5,0.0,0.0,Cancelled,Apple Pay,L5W 4LJ,On Time,Delivery Service
+466,6,2025-07-13 19:55:30,Takeaway,Phone,"Pepperoni Pizza (12"")",4,8.21,0.5,1.0,0.0,Cancelled,Cash,M58 0BH,On Time,Person
+468,9,2025-06-22 20:55:58,Takeaway,Uber Eats,Caesar Salad,3,7.74,2.0,0.0,21.22,Completed,Card,W8H 6SY,On Time,Person
+469,12,2025-09-01 19:42:40,Takeaway,Uber Eats,Naan,1,1.85,2.0,1.0,0.85,Completed,Card,NW3E 3NE,On Time,Delivery Service
+470,6,2025-09-03 01:24:20,Takeaway,Uber Eats,Naan,2,2.56,0.0,0.5,5.62,Completed,Google Pay,G9 6FX,On Time,Delivery Service
+471,24,2025-06-09 20:26:13,Takeaway,Just Eat,Ramen,3,9.15,2.0,0.5,0.0,Refunded,Apple Pay,N11 1NY,Late,Delivery Service
+472,38,2025-09-21 13:16:30,Takeaway,Uber Eats,Lamb Rogan Josh,3,13.01,0.0,0.0,39.03,Completed,Google Pay,N07 3LH,On Time,Delivery Service
+473,17,2025-07-08 21:50:00,Takeaway,Just Eat,Garlic Bread,2,3.55,1.0,0.0,0.0,Cancelled,Cash,G7 9BL,Late,Delivery Service
+474,21,2025-08-19 13:27:41,Takeaway,Just Eat,Garlic Bread,3,3.01,2.0,1.0,8.03,Completed,Apple Pay,FY77 1HS,On Time,Delivery Service
+476,12,2025-08-12 19:16:19,Takeaway,Deliveroo,Garlic Bread,3,3.19,1.5,0.5,8.57,Completed,Cash,B2T 6PB,On Time,Person
+477,8,2025-07-16 21:10:06,Takeaway,Uber Eats,Chicken Tikka Masala,1,9.54,2.0,0.0,7.54,Completed,Card,BA8R 1RR,On Time,Person
+478,11,2025-08-15 23:21:16,Takeaway,Just Eat,Fish & Chips,2,11.73,2.0,0.0,21.46,Completed,Google Pay,LD0B 6TZ,Late,Delivery Service
+479,6,2025-06-13 18:05:38,Takeaway,Deliveroo,Cheeseburger,3,8.12,0.5,1.0,24.86,Completed,Apple Pay,N60 2AW,Late,Person
+480,39,2025-06-12 13:47:49,Takeaway,Phone,"Pepperoni Pizza (12"")",1,10.52,0.5,0.0,10.02,Completed,Apple Pay,W1A 9LZ,On Time,Delivery Service
+481,13,2025-06-07 22:37:51,Takeaway,Phone,Caesar Salad,2,7.06,0.0,1.0,15.12,Completed,Card,M6 7UP,On Time,Delivery Service
+482,24,2025-07-17 21:01:00,Takeaway,Website,"Pepperoni Pizza (12"")",3,7.48,0.0,0.5,22.94,Completed,Google Pay,HA2E 9DX,On Time,Delivery Service
+483,26,2025-09-23 12:47:45,Takeaway,Deliveroo,Chicken Kebab,2,10.6,1.0,0.0,20.2,Completed,Apple Pay,W0 9GJ,On Time,Delivery Service
+484,23,2025-07-25 13:29:59,Takeaway,Just Eat,Sushi Roll (8pc),1,9.37,0.0,0.0,9.37,Completed,Card,N5 8JE,Late,Person
+485,36,2025-06-15 18:07:51,Takeaway,Website,Caesar Salad,4,8.83,1.0,1.0,35.32,Completed,Google Pay,N2 8PB,On Time,Delivery Service
+486,25,2025-09-18 13:48:21,Takeaway,Just Eat,Falafel Wrap,2,6.89,1.0,0.0,12.78,Completed,Card,S0 6DA,On Time,Delivery Service
+487,17,2025-06-14 13:43:44,Takeaway,Uber Eats,Lamb Rogan Josh,4,12.4,0.5,0.0,49.1,Completed,Card,BT6B 3DX,On Time,Delivery Service
+488,17,2025-07-19 19:43:47,Takeaway,Website,Chicken Chow Mein,2,6.34,0.0,0.5,13.18,Completed,Apple Pay,NW7H 8JP,On Time,Delivery Service
+489,14,2025-09-20 21:43:59,Takeaway,Deliveroo,Chicken Tikka Masala,2,9.49,0.0,0.0,0.0,Cancelled,Cash,CA0 1TN,On Time,Person
+490,17,2025-07-11 13:53:39,Takeaway,Walk-in,Pad Thai,1,7.86,0.0,0.0,7.86,Completed,Google Pay,GU1M 8RS,On Time,Delivery Service
+492,32,2025-09-20 23:27:15,Takeaway,Website,Burrito,1,6.73,2.0,1.0,5.73,Completed,Google Pay,RG2R 0RG,On Time,Delivery Service
+493,15,2025-09-21 20:51:27,Takeaway,Website,Burrito,3,9.76,0.0,1.0,30.28,Completed,Google Pay,E3 8WR,On Time,Delivery Service
+494,12,2025-08-29 04:41:16,Takeaway,Walk-in,Brownie,3,2.78,0.0,0.0,8.34,Completed,Cash,L1K 7PE,On Time,Delivery Service
+495,25,2025-09-22 18:39:55,Takeaway,Website,Veggie Curry,2,6.84,0.0,0.0,13.68,Completed,Google Pay,M89 9UB,On Time,Person
+497,29,2025-07-06 20:43:14,Takeaway,Uber Eats,Doner Kebab,2,9.6,2.0,0.0,17.2,Completed,Google Pay,W8D 8EU,On Time,Person
+498,25,2025-07-09 21:09:30,Takeaway,Deliveroo,Fish & Chips,2,7.65,0.5,0.0,14.8,Completed,Apple Pay,W7U 4ZB,On Time,Person
+499,32,2025-07-29 20:03:25,Takeaway,Website,Doner Kebab,2,9.45,0.0,0.0,18.9,Completed,Google Pay,CA9 5EU,On Time,Person
+500,7,2025-08-27 18:28:31,Takeaway,Website,Veggie Curry,1,7.62,1.0,1.0,7.62,Completed,Apple Pay,NR89 7JL,On Time,Delivery Service
+501,2,2025-08-20 21:38:12,Takeaway,Phone,Garlic Bread,1,3.65,1.5,1.0,3.15,Completed,Apple Pay,ML0N 2LL,On Time,Person
+502,23,2025-08-03 13:01:49,Takeaway,Just Eat,Burrito,1,9.1,0.5,0.0,8.6,Completed,Apple Pay,L12 8ZE,On Time,Delivery Service
+503,30,2025-06-29 13:02:31,Takeaway,Deliveroo,Soft Drink (330ml),2,2.01,0.0,0.5,4.52,Completed,Google Pay,W75 6AB,On Time,Delivery Service
+504,5,2025-06-16 13:20:20,Takeaway,Deliveroo,Soft Drink (330ml),3,1.49,0.0,1.0,5.47,Completed,Google Pay,BR96 8NT,On Time,Person
+505,18,2025-08-26 19:22:36,Takeaway,Just Eat,Pad Thai,3,11.11,1.0,0.5,32.83,Completed,Cash,LN3W 9FW,On Time,Delivery Service
+506,12,2025-06-05 13:42:16,Takeaway,Just Eat,Brownie,5,3.12,0.0,0.0,15.6,Completed,Card,B05 6HR,On Time,Delivery Service
+507,7,2025-06-13 19:17:38,Takeaway,Uber Eats,Burrito,1,8.19,0.0,0.5,8.69,Completed,Card,S38 4ER,Late,Delivery Service
+508,7,2025-07-22 12:41:59,Takeaway,Just Eat,Sushi Roll (8pc),2,8.05,0.0,0.0,16.1,Completed,Cash,LE1 9FA,On Time,Person
+509,9,2025-09-11 16:47:49,Takeaway,Just Eat,Fish & Chips,1,6.73,0.0,0.0,6.73,Completed,Google Pay,B1E 9UW,On Time,Delivery Service
+510,35,2025-07-24 13:44:34,Takeaway,Just Eat,"Pepperoni Pizza (12"")",2,10.25,0.5,1.0,21.0,Completed,Apple Pay,G2 2JX,On Time,Delivery Service
+511,23,2025-09-02 12:28:19,Takeaway,Walk-in,Pad Thai,1,9.27,0.0,0.0,9.27,Completed,Card,DY3N 0YZ,On Time,Person
+512,34,2025-06-27 19:34:00,Takeaway,Website,Brownie,1,3.38,2.0,0.5,1.88,Completed,Card,B1 8PR,On Time,Person
+513,28,2025-07-28 12:35:23,Takeaway,Just Eat,Chicken Tikka Masala,2,9.06,1.0,0.5,17.62,Completed,Cash,M26 0ZT,On Time,Delivery Service
+514,11,2025-08-16 02:14:31,Takeaway,Uber Eats,Lamb Rogan Josh,1,9.45,0.5,0.0,8.95,Completed,Apple Pay,L1T 1QT,On Time,Person
+515,19,2025-09-12 17:02:23,Takeaway,Phone,Ramen,2,8.94,0.0,0.0,17.88,Completed,Apple Pay,W0K 7RS,On Time,Person
+516,8,2025-08-28 18:44:39,Takeaway,Walk-in,Burrito,2,6.75,0.0,0.0,13.5,Completed,Card,WS11 9RQ,On Time,Delivery Service
+517,12,2025-06-21 13:45:28,Takeaway,Just Eat,Fish & Chips,2,8.01,0.0,0.0,16.02,Completed,Cash,W7 0NA,On Time,Delivery Service
+518,22,2025-08-22 19:23:29,Takeaway,Phone,Brownie,4,3.19,0.0,0.0,12.76,Completed,Card,E66 0LX,On Time,Delivery Service
+519,18,2025-08-16 19:11:12,Takeaway,Walk-in,Veggie Curry,2,9.68,2.0,0.0,17.36,Completed,Cash,RG03 5FT,On Time,Delivery Service
+520,25,2025-08-26 12:12:29,Takeaway,Just Eat,Doner Kebab,1,8.61,0.0,0.5,9.11,Completed,Apple Pay,SN5 3YH,On Time,Person
+521,21,2025-07-02 12:47:59,Takeaway,Deliveroo,Fries,3,3.04,0.0,0.5,9.62,Completed,Apple Pay,SP34 9FL,On Time,Person
+522,13,2025-08-10 09:42:35,Takeaway,Deliveroo,Bottled Water (500ml),4,0.97,0.0,0.0,3.88,Completed,Google Pay,KA4Y 2HX,On Time,Delivery Service
+523,21,2025-06-04 18:37:07,Takeaway,Uber Eats,Sushi Roll (8pc),2,10.45,0.0,0.0,20.9,Completed,Google Pay,HX1P 7YF,On Time,Person
+524,39,2025-07-01 12:15:10,Takeaway,Deliveroo,Burrito,1,6.37,1.0,0.0,5.37,Completed,Card,N12 0EA,On Time,Delivery Service
+525,4,2025-08-09 21:34:50,Takeaway,Uber Eats,Doner Kebab,1,6.63,0.0,0.0,0.0,Cancelled,Apple Pay,W8J 1WB,Late,Delivery Service
+526,29,2025-07-08 19:22:46,Takeaway,Deliveroo,"Margherita Pizza (12"")",4,7.0,0.0,0.5,28.5,Completed,Google Pay,E10 4SZ,On Time,Person
+527,36,2025-07-28 19:12:36,Takeaway,Website,"Pepperoni Pizza (12"")",1,9.99,0.0,0.5,10.49,Completed,Cash,G1 3DQ,On Time,Delivery Service
+528,5,2025-09-12 18:52:16,Takeaway,Just Eat,Fries,1,2.73,0.0,1.0,3.73,Completed,Cash,HA41 9EQ,On Time,Person
+529,2,2025-08-11 02:42:48,Takeaway,Just Eat,Lamb Rogan Josh,2,9.76,0.0,1.0,20.52,Completed,Cash,G59 8BX,Late,Person
+530,34,2025-09-06 00:44:49,Takeaway,Deliveroo,"Margherita Pizza (12"")",3,8.45,0.0,0.5,25.85,Completed,Apple Pay,N1 0TS,On Time,Person
+531,8,2025-06-20 12:02:53,Takeaway,Walk-in,"Margherita Pizza (12"")",2,6.71,0.0,0.0,13.42,Completed,Google Pay,L3 7WX,Late,Delivery Service
+532,13,2025-06-20 21:53:24,Takeaway,Website,Bottled Water (500ml),1,1.19,1.0,1.0,1.19,Completed,Card,CA51 9UY,On Time,Person
+533,24,2025-07-14 12:00:59,Takeaway,Just Eat,Chicken Tikka Masala,1,10.28,2.0,0.0,8.28,Completed,Card,NG5W 6RD,On Time,Delivery Service
+534,24,2025-09-17 18:33:40,Takeaway,Uber Eats,Ramen,2,12.11,2.0,0.0,22.22,Completed,Apple Pay,CO22 3GY,On Time,Person
+535,34,2025-06-09 07:27:26,Takeaway,Walk-in,Egg Fried Rice,1,3.16,0.0,1.0,4.16,Completed,Card,N7 4JU,Late,Delivery Service
+536,15,2025-09-12 13:33:42,Takeaway,Deliveroo,Lamb Rogan Josh,2,11.14,0.0,1.0,0.0,Cancelled,Google Pay,M5C 4NE,On Time,Delivery Service
+537,7,2025-09-21 19:44:42,Takeaway,Uber Eats,Ramen,5,12.41,0.0,0.0,62.05,Completed,Google Pay,YO5 6HZ,On Time,Person
+538,33,2025-08-05 22:55:26,Takeaway,Website,Fries,3,4.0,0.5,0.0,11.5,Completed,Apple Pay,L7 2WL,Late,Delivery Service
+539,24,2025-08-20 11:39:32,Takeaway,Phone,Ramen,5,12.13,0.0,1.0,61.65,Completed,Cash,M0 1LG,On Time,Person
+540,25,2025-09-16 06:17:53,Takeaway,Just Eat,Veggie Curry,3,7.62,0.5,0.5,22.86,Completed,Card,JE76 7AQ,On Time,Delivery Service
+541,3,2025-07-26 20:08:56,Takeaway,Website,Egg Fried Rice,1,3.01,0.0,0.0,3.01,Completed,Card,S7 2YQ,On Time,Delivery Service
+542,18,2025-09-16 20:59:36,Takeaway,Phone,"Margherita Pizza (12"")",1,6.38,0.5,0.0,5.88,Completed,Cash,BL03 7BU,On Time,Person
+543,17,2025-08-11 16:43:48,Takeaway,Walk-in,Lamb Rogan Josh,3,9.28,2.0,0.0,25.84,Completed,Google Pay,YO9A 4YA,On Time,Delivery Service
+544,37,2025-07-13 15:19:52,Takeaway,Deliveroo,Chicken Chow Mein,2,9.57,0.0,0.5,19.64,Completed,Card,PO1 0WJ,On Time,Delivery Service
+545,39,2025-07-29 20:24:05,Takeaway,Just Eat,Cheeseburger,2,9.11,0.0,0.0,18.22,Completed,Google Pay,G61 6PL,On Time,Person
+546,8,2025-07-15 10:34:51,Takeaway,Walk-in,Naan,5,3.1,1.5,0.5,14.5,Completed,Apple Pay,BT1M 1XL,On Time,Delivery Service
+547,34,2025-06-09 20:09:20,Takeaway,Deliveroo,Caesar Salad,2,7.79,0.0,0.0,15.58,Completed,Google Pay,G9 9EY,On Time,Delivery Service
+548,29,2025-09-24 12:14:27,Takeaway,Website,Egg Fried Rice,1,4.57,0.0,0.0,4.57,Completed,Card,KA3 7BD,On Time,Person
+549,31,2025-09-20 09:06:22,Takeaway,Uber Eats,Fries,1,2.8,0.0,0.5,3.3,Completed,Google Pay,OX3 5PE,Late,Person
+550,9,2025-06-27 13:31:25,Takeaway,Deliveroo,Soft Drink (330ml),3,1.77,1.0,1.0,5.31,Completed,Cash,HD68 6HN,On Time,Delivery Service
+551,16,2025-06-15 19:20:43,Takeaway,Just Eat,Garlic Bread,1,2.68,1.5,0.5,1.68,Completed,Apple Pay,G36 1GE,Late,Delivery Service
+552,23,2025-07-08 20:41:01,Takeaway,Just Eat,Egg Fried Rice,3,3.34,0.0,1.0,11.02,Completed,Cash,DL4Y 5FS,On Time,Person
+553,29,2025-06-10 03:08:40,Takeaway,Deliveroo,Lamb Rogan Josh,2,9.1,0.0,0.0,18.2,Completed,Card,BT04 9QT,Late,Person
+554,8,2025-06-12 20:59:09,Takeaway,Website,Egg Fried Rice,1,3.03,1.5,0.0,1.53,Completed,Google Pay,AB1 7YT,Late,Delivery Service
+555,31,2025-06-05 21:34:13,Takeaway,Uber Eats,Chicken Tikka Masala,3,9.73,2.0,0.0,27.19,Completed,Google Pay,B1 2UY,On Time,Delivery Service
+557,11,2025-06-13 21:39:17,Takeaway,Just Eat,Cheeseburger,2,6.82,0.0,0.0,13.64,Completed,Apple Pay,W6 2WP,On Time,Person
+558,24,2025-06-22 21:24:14,Takeaway,Website,Sushi Roll (8pc),2,9.04,1.5,0.0,16.58,Completed,Google Pay,BS63 6TD,Late,Person
+559,39,2025-09-12 13:32:29,Takeaway,Phone,Fries,2,3.85,0.0,0.0,7.7,Completed,Apple Pay,KW1X 5YQ,On Time,Delivery Service
+560,22,2025-09-04 13:01:22,Takeaway,Phone,Bottled Water (500ml),2,1.08,1.5,0.0,0.66,Completed,Apple Pay,E41 6EF,On Time,Delivery Service
+561,4,2025-07-21 10:52:22,Takeaway,Phone,Fish & Chips,2,12.64,0.0,0.0,25.28,Completed,Apple Pay,S6 2XG,On Time,Delivery Service
+562,26,2025-06-28 19:33:43,Takeaway,Just Eat,Naan,1,3.02,1.5,0.0,1.52,Completed,Cash,DN0 2LJ,Late,Delivery Service
+563,37,2025-07-01 18:58:38,Takeaway,Deliveroo,Chicken Chow Mein,3,8.02,0.0,0.0,24.06,Completed,Cash,G66 0FX,On Time,Person
+564,38,2025-09-14 12:53:30,Takeaway,Phone,Chicken Tikka Masala,3,11.31,0.0,1.0,34.93,Completed,Google Pay,IG8 4XE,On Time,Delivery Service
+565,10,2025-09-19 02:21:54,Takeaway,Phone,Chicken Chow Mein,1,6.31,1.0,0.0,5.31,Completed,Apple Pay,ZE2M 0GE,On Time,Person
+566,10,2025-06-07 03:24:08,Takeaway,Deliveroo,Ramen,3,12.81,0.0,0.5,38.93,Completed,Apple Pay,S9 6NJ,On Time,Person
+567,10,2025-07-07 13:01:48,Takeaway,Uber Eats,Naan,5,2.66,1.0,1.0,13.3,Completed,Cash,S9 6RJ,On Time,Delivery Service
+568,39,2025-07-16 12:22:05,Takeaway,Uber Eats,Brownie,2,3.17,0.0,1.0,7.34,Completed,Google Pay,B50 7NS,On Time,Person
+569,24,2025-07-07 03:23:33,Takeaway,Phone,Burrito,3,7.9,0.0,0.0,23.7,Completed,Card,BA0X 7DJ,On Time,Delivery Service
+570,27,2025-06-04 07:58:17,Takeaway,Phone,Ramen,3,9.11,1.5,0.0,25.83,Completed,Card,RM2E 7PR,On Time,Delivery Service
+571,12,2025-08-25 17:13:02,Takeaway,Phone,Burrito,2,8.75,2.0,0.5,16.0,Completed,Google Pay,EX5A 2GF,On Time,Delivery Service
+572,26,2025-06-09 19:46:20,Takeaway,Uber Eats,Sushi Roll (8pc),3,9.56,1.5,1.0,28.18,Completed,Card,NP3P 2GQ,On Time,Delivery Service
+573,34,2025-06-22 12:56:15,Takeaway,Uber Eats,Caesar Salad,2,7.15,1.5,0.0,12.8,Completed,Google Pay,UB2B 4RG,On Time,Delivery Service
+574,34,2025-06-10 19:25:56,Takeaway,Phone,Egg Fried Rice,1,4.55,0.0,0.5,5.05,Completed,Google Pay,YO4 7UP,On Time,Person
+575,19,2025-06-12 00:12:21,Takeaway,Walk-in,"Margherita Pizza (12"")",1,7.85,1.5,0.5,6.85,Completed,Card,B5J 3WX,On Time,Person
+576,12,2025-09-23 02:23:02,Takeaway,Website,Brownie,1,2.82,0.5,0.5,2.82,Completed,Google Pay,M6W 7FR,On Time,Delivery Service
+577,2,2025-07-06 21:57:12,Takeaway,Deliveroo,Falafel Wrap,1,4.82,0.0,0.0,4.82,Completed,Card,G1 5EJ,On Time,Delivery Service
+578,6,2025-06-23 14:02:49,Takeaway,Deliveroo,Soft Drink (330ml),2,1.56,1.0,0.5,2.62,Completed,Cash,N3B 6EB,On Time,Delivery Service
+579,25,2025-09-16 13:58:21,Takeaway,Phone,Garlic Bread,1,4.24,2.0,0.0,2.24,Completed,Cash,NW9 8SR,On Time,Delivery Service
+580,12,2025-06-11 18:46:49,Takeaway,Phone,Falafel Wrap,2,5.51,0.0,0.0,11.02,Completed,Cash,DH62 3XD,On Time,Delivery Service
+581,1,2025-07-20 19:54:31,Takeaway,Phone,Fries,1,3.61,1.0,0.5,3.11,Completed,Cash,E7 3ZF,On Time,Person
+582,38,2025-09-01 19:05:38,Takeaway,Uber Eats,Naan,1,1.81,1.0,0.0,0.81,Completed,Cash,N39 6PY,Late,Delivery Service
+583,4,2025-07-07 21:22:02,Takeaway,Uber Eats,"Margherita Pizza (12"")",3,9.42,1.5,1.0,27.76,Completed,Apple Pay,L52 8EJ,On Time,Person
+584,22,2025-06-18 19:11:10,Takeaway,Uber Eats,Bottled Water (500ml),1,1.03,1.5,1.0,0.53,Completed,Cash,L9A 8FX,On Time,Delivery Service
+585,30,2025-09-21 12:05:49,Takeaway,Just Eat,Egg Fried Rice,1,3.65,0.5,0.0,3.15,Completed,Card,SA0 9FX,On Time,Delivery Service
+586,19,2025-08-31 21:55:17,Takeaway,Deliveroo,Chicken Chow Mein,1,8.37,1.0,0.0,7.37,Completed,Cash,M0 7UX,On Time,Delivery Service
+588,28,2025-08-01 20:39:22,Takeaway,Deliveroo,"Margherita Pizza (12"")",2,8.46,0.5,1.0,17.42,Completed,Google Pay,L5 3UW,On Time,Delivery Service
+589,32,2025-07-06 08:25:42,Takeaway,Walk-in,Lamb Rogan Josh,2,11.9,0.0,0.0,23.8,Completed,Card,W80 1GP,Late,Person
+590,30,2025-06-24 07:34:25,Takeaway,Walk-in,Chicken Tikka Masala,1,11.0,0.5,0.5,11.0,Completed,Apple Pay,BN2 9HR,On Time,Delivery Service
+591,23,2025-09-18 05:43:31,Takeaway,Website,Chicken Tikka Masala,1,7.06,0.0,0.0,7.06,Completed,Card,HX6 3YN,Late,Person
+592,20,2025-07-29 18:49:00,Takeaway,Deliveroo,Doner Kebab,3,9.43,0.0,0.5,28.79,Completed,Card,M0 5ZH,On Time,Delivery Service
+593,12,2025-07-09 18:59:43,Takeaway,Deliveroo,Burrito,3,9.66,2.0,0.0,26.98,Completed,Cash,CV46 5QZ,Late,Delivery Service
+594,31,2025-07-01 20:57:21,Takeaway,Uber Eats,Falafel Wrap,2,7.24,0.5,0.0,13.98,Completed,Apple Pay,B9 6LS,On Time,Delivery Service
+595,37,2025-08-01 12:13:36,Takeaway,Walk-in,Bottled Water (500ml),2,1.07,2.0,0.0,0.14,Completed,Cash,N64 8LE,On Time,Delivery Service
+596,18,2025-06-07 19:40:34,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",4,10.14,0.5,0.0,40.06,Completed,Card,L4E 6ZU,Late,Person
+597,20,2025-08-01 11:40:24,Takeaway,Website,Veggie Curry,1,7.86,0.5,0.0,7.36,Completed,Google Pay,LN01 2AA,On Time,Delivery Service
+598,20,2025-07-13 13:07:23,Takeaway,Uber Eats,Cheeseburger,3,8.39,0.0,0.5,25.67,Completed,Card,RH2Y 1LQ,On Time,Person
+599,31,2025-09-06 18:59:30,Takeaway,Walk-in,Caesar Salad,3,6.24,0.0,0.0,18.72,Completed,Cash,S6 5US,On Time,Person
+600,14,2025-06-08 21:55:33,Takeaway,Walk-in,Doner Kebab,1,6.02,0.0,1.0,7.02,Completed,Apple Pay,L9 8UX,On Time,Person
+601,30,2025-06-10 21:47:19,Takeaway,Website,Fish & Chips,1,10.25,0.0,0.0,10.25,Completed,Cash,BH7M 2GG,On Time,Person
+602,13,2025-07-27 18:49:28,Takeaway,Website,Bottled Water (500ml),1,0.89,0.0,0.0,0.89,Completed,Card,GL7A 9SW,On Time,Delivery Service
+603,1,2025-09-18 13:34:22,Takeaway,Uber Eats,Fries,2,2.64,0.0,0.0,0.0,Cancelled,Cash,G7 7DB,On Time,Delivery Service
+604,11,2025-06-15 18:34:28,Takeaway,Walk-in,Cheeseburger,4,5.15,0.5,0.0,20.1,Completed,Google Pay,M0 8RX,On Time,Delivery Service
+605,4,2025-06-18 13:45:38,Takeaway,Uber Eats,Garlic Bread,2,3.76,1.5,0.5,6.52,Completed,Apple Pay,L3 4LR,Late,Delivery Service
+606,20,2025-08-04 22:46:47,Takeaway,Walk-in,Brownie,2,3.14,2.0,1.0,5.28,Completed,Google Pay,M1D 7ZS,Late,Delivery Service
+607,37,2025-06-27 21:29:06,Takeaway,Just Eat,Falafel Wrap,3,5.59,1.5,0.5,15.77,Completed,Cash,M2 3QT,On Time,Delivery Service
+608,15,2025-06-29 07:47:29,Takeaway,Phone,Naan,2,2.16,0.0,0.5,4.82,Completed,Apple Pay,L8 0XJ,On Time,Delivery Service
+609,21,2025-08-28 12:30:07,Takeaway,Website,Pad Thai,1,9.63,2.0,0.0,7.63,Completed,Apple Pay,GU01 2GR,On Time,Person
+610,39,2025-09-21 12:25:52,Takeaway,Deliveroo,Brownie,2,3.2,0.0,1.0,7.4,Completed,Card,G1 6QG,Late,Person
+611,20,2025-09-12 20:26:15,Takeaway,Just Eat,Naan,3,2.14,0.0,0.5,6.92,Completed,Card,LE7X 9HZ,On Time,Person
+612,22,2025-07-11 20:27:36,Takeaway,Website,Garlic Bread,1,3.36,0.5,1.0,3.86,Completed,Cash,W5F 7RS,On Time,Delivery Service
+613,12,2025-06-16 13:00:51,Takeaway,Uber Eats,Brownie,3,2.86,0.5,0.0,8.08,Completed,Google Pay,HR83 0DL,On Time,Person
+614,21,2025-09-17 19:11:19,Takeaway,Just Eat,Sushi Roll (8pc),2,6.85,0.0,1.0,14.7,Completed,Apple Pay,HG08 0GD,On Time,Delivery Service
+615,32,2025-06-13 13:56:37,Takeaway,Deliveroo,Soft Drink (330ml),2,2.01,2.0,0.0,2.02,Completed,Cash,NR83 4PF,Late,Person
+616,29,2025-09-12 20:36:28,Takeaway,Uber Eats,Chicken Tikka Masala,2,8.03,0.0,0.0,0.0,Cancelled,Apple Pay,RM3V 0US,Late,Person
+617,28,2025-08-07 06:23:21,Takeaway,Phone,Garlic Bread,2,2.52,1.0,0.5,4.54,Completed,Apple Pay,SG9A 8YW,On Time,Delivery Service
+618,4,2025-08-12 02:42:12,Takeaway,Walk-in,Cheeseburger,5,4.5,1.0,0.0,21.5,Completed,Apple Pay,NG8 0UN,On Time,Delivery Service
+619,2,2025-07-17 20:25:40,Takeaway,Just Eat,Chicken Chow Mein,1,9.2,0.5,0.5,9.2,Completed,Cash,B27 9ZT,On Time,Person
+620,12,2025-09-01 20:24:53,Takeaway,Deliveroo,Pad Thai,1,11.62,0.0,0.0,11.62,Completed,Cash,W5 6BU,On Time,Delivery Service
+621,9,2025-06-03 12:09:46,Takeaway,Phone,Burrito,2,8.63,0.0,0.0,17.26,Completed,Google Pay,SW1 5WT,On Time,Person
+622,30,2025-08-23 19:32:27,Takeaway,Phone,Fries,2,3.64,0.5,0.0,6.78,Completed,Cash,LE7A 6QP,On Time,Person
+623,28,2025-06-02 21:15:45,Takeaway,Website,Caesar Salad,3,6.08,1.0,1.0,18.24,Completed,Card,LE5 1AH,On Time,Person
+624,3,2025-09-19 18:07:37,Takeaway,Deliveroo,Burrito,1,9.85,0.0,0.0,0.0,Cancelled,Apple Pay,M9K 8RA,On Time,Delivery Service
+625,30,2025-09-09 20:05:15,Takeaway,Deliveroo,Burrito,2,8.52,1.5,0.0,15.54,Completed,Apple Pay,L75 3UZ,On Time,Delivery Service
+627,37,2025-08-04 18:18:10,Takeaway,Deliveroo,Cheeseburger,3,7.98,1.0,0.0,22.94,Completed,Apple Pay,B51 5QY,On Time,Person
+628,4,2025-09-01 20:03:42,Takeaway,Website,Egg Fried Rice,1,4.62,1.0,0.0,3.62,Completed,Google Pay,FK5 5RB,On Time,Person
+629,6,2025-06-26 18:16:08,Takeaway,Walk-in,Naan,2,2.19,2.0,0.0,2.38,Completed,Card,LU4X 8JS,On Time,Person
+630,39,2025-07-05 07:45:34,Takeaway,Website,"Margherita Pizza (12"")",2,8.64,0.0,0.0,17.28,Completed,Cash,L2 7PH,On Time,Delivery Service
+631,32,2025-07-06 12:37:54,Takeaway,Uber Eats,Cheeseburger,2,6.21,0.0,0.0,12.42,Completed,Cash,ZE0 7LL,On Time,Delivery Service
+632,32,2025-08-20 14:28:35,Takeaway,Phone,Lamb Rogan Josh,4,11.63,1.5,0.0,45.02,Completed,Apple Pay,M4 4FQ,On Time,Delivery Service
+633,4,2025-07-22 18:10:20,Takeaway,Just Eat,Doner Kebab,1,6.26,0.5,0.5,6.26,Completed,Apple Pay,BB1X 9FZ,Late,Delivery Service
+634,31,2025-09-12 21:45:24,Takeaway,Walk-in,Burrito,1,7.05,1.0,0.5,6.55,Completed,Apple Pay,LS2E 7ZE,On Time,Delivery Service
+635,29,2025-08-14 14:16:05,Takeaway,Uber Eats,Caesar Salad,1,7.73,0.0,0.0,7.73,Completed,Apple Pay,BT3W 8GR,Late,Person
+636,28,2025-07-24 18:51:06,Takeaway,Deliveroo,Veggie Curry,3,8.94,0.5,0.5,26.82,Completed,Cash,YO9 5UH,On Time,Person
+637,38,2025-07-09 21:44:11,Takeaway,Walk-in,Chicken Chow Mein,4,8.46,1.5,0.0,32.34,Completed,Card,BL00 6DU,On Time,Person
+638,27,2025-06-20 21:28:22,Takeaway,Walk-in,Lamb Rogan Josh,2,11.99,0.0,0.0,23.98,Completed,Card,KA7 8AA,On Time,Delivery Service
+640,6,2025-06-26 21:36:51,Takeaway,Website,"Pepperoni Pizza (12"")",1,11.93,1.5,0.0,10.43,Completed,Apple Pay,LN6 8AH,On Time,Delivery Service
+641,30,2025-06-16 18:49:27,Takeaway,Website,Brownie,1,3.36,2.0,0.0,1.36,Completed,Cash,L5 0QZ,On Time,Delivery Service
+642,5,2025-07-25 06:15:11,Takeaway,Website,Sushi Roll (8pc),4,8.44,0.0,0.0,33.76,Completed,Cash,G5E 5DN,On Time,Delivery Service
+643,29,2025-06-14 13:39:25,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",1,10.55,0.0,0.0,10.55,Completed,Google Pay,CB74 6DB,Late,Delivery Service
+644,14,2025-06-22 01:09:34,Takeaway,Walk-in,Brownie,4,2.39,0.0,0.0,9.56,Completed,Apple Pay,E1U 8EP,On Time,Delivery Service
+645,29,2025-06-05 01:27:00,Takeaway,Deliveroo,"Margherita Pizza (12"")",1,8.61,0.0,0.0,8.61,Completed,Google Pay,DD2 9DD,On Time,Person
+646,18,2025-06-30 20:32:31,Takeaway,Just Eat,Sushi Roll (8pc),1,9.37,1.0,0.5,8.87,Completed,Google Pay,TA1V 2YP,On Time,Person
+647,26,2025-06-15 12:24:44,Takeaway,Website,Burrito,3,6.48,1.0,0.0,18.44,Completed,Apple Pay,L31 8NY,On Time,Delivery Service
+648,26,2025-06-12 21:05:23,Takeaway,Just Eat,Fries,3,3.71,0.0,0.0,11.13,Completed,Apple Pay,KA05 6BU,On Time,Delivery Service
+649,13,2025-07-05 19:42:12,Takeaway,Just Eat,Egg Fried Rice,1,4.39,0.0,0.0,4.39,Completed,Card,N4U 7AB,On Time,Person
+650,29,2025-07-08 13:01:46,Takeaway,Uber Eats,Garlic Bread,1,2.98,0.5,0.0,2.48,Completed,Apple Pay,BR4N 6ZZ,On Time,Person
+651,32,2025-09-13 02:20:27,Takeaway,Website,Falafel Wrap,2,7.88,0.0,0.0,15.76,Completed,Card,OL74 2DB,On Time,Delivery Service
+652,22,2025-06-09 13:51:41,Takeaway,Phone,Bottled Water (500ml),2,1.22,1.5,1.0,1.94,Completed,Cash,L08 8XX,On Time,Person
+653,5,2025-06-08 13:51:44,Takeaway,Walk-in,Burrito,2,8.62,0.5,1.0,17.74,Completed,Cash,CF0X 4TW,On Time,Delivery Service
+654,9,2025-06-04 12:57:19,Takeaway,Walk-in,Doner Kebab,1,8.28,0.0,1.0,9.28,Completed,Card,HX5 0FA,On Time,Delivery Service
+655,8,2025-09-05 20:14:04,Takeaway,Website,Chicken Tikka Masala,2,9.13,2.0,0.5,16.76,Completed,Card,G0 3BP,On Time,Delivery Service
+656,37,2025-09-15 13:48:02,Takeaway,Website,Garlic Bread,4,2.85,0.0,0.0,11.4,Completed,Cash,WC5B 7FE,On Time,Person
+657,27,2025-07-04 01:10:25,Takeaway,Walk-in,Fries,3,2.33,0.0,1.0,7.99,Completed,Cash,DD43 5LU,Late,Delivery Service
+658,7,2025-08-13 10:53:51,Takeaway,Walk-in,Fish & Chips,1,12.22,0.0,0.0,12.22,Completed,Cash,L5T 4DB,On Time,Person
+659,6,2025-09-24 16:59:05,Takeaway,Deliveroo,Ramen,1,11.47,2.0,0.5,9.97,Completed,Cash,TD8W 6XH,On Time,Delivery Service
+660,14,2025-06-29 20:28:26,Takeaway,Uber Eats,Lamb Rogan Josh,2,13.16,1.0,0.0,25.32,Completed,Cash,KY79 4UN,On Time,Delivery Service
+661,32,2025-06-18 18:22:26,Takeaway,Uber Eats,Fish & Chips,3,10.13,0.0,0.0,30.39,Completed,Card,ML3V 9YJ,On Time,Delivery Service
+663,13,2025-06-23 07:07:21,Takeaway,Phone,Bottled Water (500ml),2,1.48,0.5,0.5,2.96,Completed,Cash,YO4 6QF,On Time,Delivery Service
+664,3,2025-06-11 18:13:27,Takeaway,Walk-in,Veggie Curry,3,7.5,2.0,0.5,21.0,Completed,Card,IP0 3ZW,Late,Delivery Service
+665,4,2025-09-13 12:31:32,Takeaway,Uber Eats,Doner Kebab,4,6.35,0.0,0.5,25.9,Completed,Apple Pay,B53 6YE,On Time,Delivery Service
+666,27,2025-07-10 00:14:55,Takeaway,Phone,Chicken Chow Mein,2,7.04,0.0,0.0,0.0,Cancelled,Card,TW1R 8EF,On Time,Delivery Service
+667,16,2025-08-20 12:50:03,Takeaway,Uber Eats,Sushi Roll (8pc),4,10.96,0.0,0.5,44.34,Completed,Google Pay,SG91 4ZJ,On Time,Delivery Service
+668,4,2025-08-25 20:29:11,Takeaway,Deliveroo,Sushi Roll (8pc),1,8.37,0.5,0.0,7.87,Completed,Apple Pay,BB9W 9PH,On Time,Delivery Service
+669,18,2025-07-10 12:44:36,Takeaway,Just Eat,Cheeseburger,2,5.9,0.0,0.5,12.3,Completed,Google Pay,G9H 0TY,On Time,Delivery Service
+670,11,2025-08-07 18:38:10,Takeaway,Uber Eats,Soft Drink (330ml),5,2.15,0.0,1.0,11.75,Completed,Cash,W3E 4LT,On Time,Person
+671,6,2025-08-20 08:38:35,Takeaway,Just Eat,Burrito,2,9.45,0.0,1.0,19.9,Completed,Google Pay,PE0A 0ZR,On Time,Delivery Service
+672,18,2025-06-04 05:35:34,Takeaway,Phone,Lamb Rogan Josh,2,9.36,0.5,1.0,19.22,Completed,Cash,L98 1ED,On Time,Person
+673,37,2025-06-02 12:02:30,Takeaway,Just Eat,Caesar Salad,5,5.13,1.0,0.5,25.15,Completed,Card,L2 4LW,Late,Person
+674,29,2025-09-05 20:48:00,Takeaway,Website,Brownie,2,3.1,0.0,0.0,6.2,Completed,Apple Pay,TN9X 3JW,Late,Person
+675,16,2025-06-19 21:19:10,Takeaway,Walk-in,Brownie,4,2.69,1.0,1.0,10.76,Completed,Google Pay,DY83 0RH,On Time,Person
+676,30,2025-06-28 08:02:03,Takeaway,Deliveroo,Sushi Roll (8pc),1,7.42,2.0,0.0,0.0,Cancelled,Google Pay,NW1 4QG,On Time,Delivery Service
+677,1,2025-06-15 21:21:33,Takeaway,Deliveroo,Cheeseburger,2,5.98,2.0,0.0,9.96,Completed,Cash,S6 6LF,On Time,Person
+678,6,2025-08-05 14:27:02,Takeaway,Walk-in,Cheeseburger,1,7.07,1.5,0.0,5.57,Completed,Card,E1 5TE,On Time,Person
+679,25,2025-08-11 12:23:23,Takeaway,Uber Eats,"Pepperoni Pizza (12"")",1,10.56,1.5,0.0,9.06,Completed,Cash,E6 2PQ,Late,Delivery Service
+680,9,2025-08-05 12:41:30,Takeaway,Deliveroo,Garlic Bread,3,4.24,1.5,0.0,11.22,Completed,Cash,TQ7X 2YY,On Time,Person
+681,21,2025-08-08 21:45:19,Takeaway,Walk-in,Caesar Salad,1,7.72,0.0,0.0,7.72,Completed,Apple Pay,CH89 0JP,On Time,Person
+682,23,2025-08-28 20:53:07,Takeaway,Website,Burrito,2,8.84,1.5,1.0,17.18,Completed,Google Pay,E1F 4ZD,On Time,Person
+684,6,2025-08-16 06:42:44,Takeaway,Phone,Egg Fried Rice,2,4.92,0.0,0.0,9.84,Completed,Apple Pay,SP4 4XD,On Time,Delivery Service
+685,8,2025-06-30 13:33:40,Takeaway,Phone,Fish & Chips,2,8.41,1.5,1.0,16.32,Completed,Google Pay,HX1R 4TS,On Time,Delivery Service
+686,23,2025-08-21 21:01:18,Takeaway,Uber Eats,Chicken Tikka Masala,1,7.31,2.0,0.0,5.31,Completed,Apple Pay,L3H 2QG,On Time,Delivery Service
+687,27,2025-09-21 21:50:20,Takeaway,Uber Eats,Burrito,1,8.37,1.5,1.0,7.87,Completed,Google Pay,RM97 1BS,On Time,Delivery Service
+688,30,2025-07-30 18:10:50,Takeaway,Walk-in,Veggie Curry,3,7.02,0.0,0.0,21.06,Completed,Cash,TN4V 2ZE,On Time,Delivery Service
+689,23,2025-07-26 13:39:59,Takeaway,Phone,"Pepperoni Pizza (12"")",4,10.91,0.0,0.0,43.64,Completed,Cash,BB6 1LP,On Time,Delivery Service
+690,11,2025-07-17 18:36:08,Takeaway,Uber Eats,Falafel Wrap,2,5.41,0.0,0.0,10.82,Completed,Card,CR7B 5JT,On Time,Delivery Service
+691,21,2025-08-07 19:34:10,Takeaway,Just Eat,Fries,2,2.6,0.0,0.5,5.7,Completed,Cash,L2B 2PW,On Time,Person
+692,30,2025-08-02 21:34:32,Takeaway,Website,Chicken Chow Mein,1,8.91,0.0,0.5,0.0,Cancelled,Cash,W2 3PS,On Time,Delivery Service
+693,37,2025-08-26 12:46:30,Takeaway,Website,Cheeseburger,2,5.2,1.0,0.0,9.4,Completed,Card,N74 3BZ,On Time,Delivery Service
+694,26,2025-07-14 12:20:03,Takeaway,Phone,Naan,2,2.7,1.0,1.0,5.4,Completed,Apple Pay,IP7V 2NQ,On Time,Person
+695,13,2025-06-05 19:43:42,Takeaway,Just Eat,Chicken Kebab,1,10.88,0.5,0.0,10.38,Completed,Apple Pay,BB8 8LT,On Time,Delivery Service
+696,39,2025-09-08 18:01:22,Takeaway,Website,Bottled Water (500ml),1,1.09,0.0,0.5,1.59,Completed,Google Pay,W7 3JR,Late,Delivery Service
+697,24,2025-06-03 18:19:28,Takeaway,Deliveroo,Fries,1,2.18,1.5,0.5,1.18,Completed,Google Pay,W8C 7DQ,On Time,Person
+698,29,2025-07-27 21:57:27,Takeaway,Walk-in,Ramen,1,8.7,1.0,1.0,8.7,Completed,Cash,SS93 9ZX,On Time,Delivery Service
+699,14,2025-07-30 20:21:04,Takeaway,Just Eat,Garlic Bread,1,4.01,0.0,0.0,4.01,Completed,Apple Pay,SM43 9FX,On Time,Person
+700,27,2025-07-05 21:36:48,Takeaway,Website,"Margherita Pizza (12"")",2,6.8,2.0,0.5,12.1,Completed,Google Pay,IV4 3WH,On Time,Delivery Service
+701,3,2025-07-30 01:23:20,Takeaway,Phone,Egg Fried Rice,4,3.99,1.5,0.5,14.96,Completed,Card,E9W 9ZP,On Time,Person
+702,1,2025-07-01 21:53:40,Takeaway,Just Eat,Burrito,3,6.5,1.5,0.0,18.0,Completed,Cash,E52 2ZY,On Time,Person
+703,32,2025-07-18 18:31:04,Takeaway,Uber Eats,Naan,3,2.84,1.0,0.5,8.02,Completed,Google Pay,SR2V 4JW,On Time,Delivery Service
+704,17,2025-09-01 20:30:37,Takeaway,Walk-in,Doner Kebab,2,7.87,1.5,1.0,0.0,Refunded,Apple Pay,E91 8XZ,On Time,Person
+705,11,2025-09-22 18:29:56,Takeaway,Website,Brownie,2,2.2,0.0,0.0,4.4,Completed,Apple Pay,FK92 7ER,On Time,Person
+706,27,2025-08-09 18:33:40,Takeaway,Walk-in,Chicken Kebab,3,8.57,2.0,0.0,23.71,Completed,Cash,L4J 9HZ,On Time,Person
+707,35,2025-08-03 01:27:24,Takeaway,Walk-in,Bottled Water (500ml),1,1.44,0.0,0.0,1.44,Completed,Apple Pay,IV1 2DE,On Time,Delivery Service
+708,10,2025-06-03 18:23:49,Takeaway,Phone,Burrito,1,7.65,0.0,0.0,7.65,Completed,Cash,SY8Y 2GE,On Time,Person
+709,33,2025-07-14 08:27:48,Takeaway,Uber Eats,Fries,1,3.23,2.0,1.0,2.23,Completed,Card,S77 8EQ,On Time,Delivery Service
+710,27,2025-08-29 20:02:42,Takeaway,Website,Doner Kebab,1,10.09,0.0,0.5,10.59,Completed,Apple Pay,M92 1UR,On Time,Delivery Service
+711,24,2025-06-28 09:51:07,Takeaway,Deliveroo,Naan,2,2.53,0.0,0.0,5.06,Completed,Apple Pay,W0B 0ZN,On Time,Person
+712,2,2025-06-24 21:09:44,Takeaway,Walk-in,Lamb Rogan Josh,4,9.69,0.0,0.0,38.76,Completed,Google Pay,FY62 5UT,On Time,Delivery Service
+713,8,2025-06-16 19:48:27,Takeaway,Uber Eats,Cheeseburger,3,5.48,0.0,1.0,17.44,Completed,Card,M9W 8FW,On Time,Delivery Service
+714,31,2025-06-24 12:13:03,Takeaway,Walk-in,Cheeseburger,3,4.83,1.5,0.0,12.99,Completed,Card,PL07 2GQ,On Time,Person
+715,39,2025-07-11 13:11:42,Takeaway,Uber Eats,Pad Thai,5,7.16,0.0,0.0,35.8,Completed,Apple Pay,BN75 5UN,Late,Person
+716,23,2025-07-02 14:15:05,Takeaway,Walk-in,Naan,5,2.14,1.0,0.0,9.7,Completed,Card,BB2 0QR,On Time,Delivery Service
+717,34,2025-07-13 13:17:03,Takeaway,Walk-in,Egg Fried Rice,1,3.34,2.0,1.0,2.34,Completed,Card,DH74 9GB,On Time,Delivery Service
+718,14,2025-09-07 07:43:12,Takeaway,Just Eat,Burrito,1,7.47,1.0,0.0,6.47,Completed,Card,BT3 5UD,Late,Person
+719,12,2025-08-09 07:35:31,Takeaway,Walk-in,Ramen,1,9.07,0.0,0.5,9.57,Completed,Apple Pay,E5H 4QH,On Time,Person
+720,8,2025-08-30 13:31:48,Takeaway,Walk-in,Pad Thai,3,10.88,1.0,0.0,31.64,Completed,Apple Pay,B4 0NR,On Time,Delivery Service
+721,32,2025-06-23 19:38:47,Takeaway,Phone,Egg Fried Rice,4,4.37,2.0,0.5,15.98,Completed,Google Pay,B1 1WD,On Time,Person
+722,19,2025-08-23 12:57:53,Takeaway,Walk-in,Burrito,1,9.76,0.0,0.0,9.76,Completed,Google Pay,EH4W 3GW,On Time,Delivery Service
+723,7,2025-08-17 21:43:05,Takeaway,Walk-in,Doner Kebab,4,6.72,0.5,1.0,27.38,Completed,Cash,W1 3AP,On Time,Person
+724,5,2025-08-11 01:00:41,Takeaway,Walk-in,Chicken Chow Mein,1,6.9,2.0,0.5,5.4,Completed,Cash,B57 8JZ,On Time,Delivery Service
+725,28,2025-09-06 21:49:37,Takeaway,Website,Garlic Bread,2,3.05,2.0,0.5,4.6,Completed,Google Pay,CV0N 8LX,On Time,Person
+726,39,2025-08-18 22:50:37,Takeaway,Walk-in,Caesar Salad,2,6.12,2.0,0.5,10.74,Completed,Card,L60 0DN,On Time,Person
+727,17,2025-09-04 21:08:01,Takeaway,Just Eat,Doner Kebab,1,9.69,2.0,0.0,7.69,Completed,Card,RM2R 7RE,Late,Person
+728,12,2025-08-14 18:09:19,Takeaway,Deliveroo,Naan,5,2.67,2.0,0.0,11.35,Completed,Google Pay,E5 4TG,Late,Person
+729,30,2025-07-10 19:31:32,Takeaway,Uber Eats,Veggie Curry,2,8.44,2.0,1.0,15.88,Completed,Card,RG7N 5GL,On Time,Person
+730,3,2025-08-23 23:50:21,Takeaway,Just Eat,Doner Kebab,2,7.92,0.0,0.5,16.34,Completed,Google Pay,PA5 9UJ,Late,Person
+731,3,2025-06-07 21:55:49,Takeaway,Just Eat,Egg Fried Rice,1,4.77,0.0,0.5,5.27,Completed,Cash,HP8 5JR,On Time,Person
+732,20,2025-08-15 12:36:43,Takeaway,Uber Eats,Burrito,3,8.64,1.5,1.0,25.42,Completed,Google Pay,JE1Y 1FJ,On Time,Person
+733,31,2025-09-18 14:18:00,Takeaway,Uber Eats,Caesar Salad,4,5.22,0.0,0.5,0.0,Cancelled,Google Pay,PO38 4JP,On Time,Person
+735,24,2025-08-08 03:53:01,Takeaway,Just Eat,Garlic Bread,1,2.55,1.5,0.0,1.05,Completed,Card,L5 9TA,On Time,Delivery Service
+736,28,2025-08-07 10:28:59,Takeaway,Phone,Ramen,2,9.76,1.5,0.0,18.02,Completed,Cash,L3 4RQ,On Time,Person
+737,20,2025-09-24 21:04:55,Takeaway,Uber Eats,Egg Fried Rice,2,3.23,0.0,0.0,6.46,Completed,Apple Pay,S5J 4BJ,On Time,Person
+738,3,2025-08-29 21:59:36,Takeaway,Walk-in,Ramen,2,10.84,0.5,0.0,21.18,Completed,Google Pay,LS6 0GS,On Time,Person
+739,38,2025-06-05 17:37:45,Takeaway,Walk-in,Sushi Roll (8pc),3,9.35,0.0,1.0,29.05,Completed,Google Pay,S7 7RP,On Time,Delivery Service
+740,7,2025-07-11 20:51:48,Takeaway,Website,Bottled Water (500ml),1,1.07,1.0,0.0,0.07,Completed,Google Pay,ML5 6BX,On Time,Delivery Service
+741,13,2025-09-05 12:53:54,Takeaway,Website,Fries,1,2.43,0.0,0.0,2.43,Completed,Google Pay,G10 2EH,On Time,Person
+742,15,2025-06-19 06:33:16,Takeaway,Walk-in,Garlic Bread,4,2.69,0.0,0.0,10.76,Completed,Google Pay,HA7A 4HW,On Time,Person
+743,28,2025-07-12 12:41:52,Takeaway,Deliveroo,Egg Fried Rice,4,4.01,0.0,0.5,16.54,Completed,Apple Pay,G1 2ND,On Time,Delivery Service
+744,13,2025-08-20 20:32:29,Takeaway,Deliveroo,Bottled Water (500ml),4,1.41,0.0,0.0,5.64,Completed,Cash,W9 2NQ,On Time,Person
+745,37,2025-09-06 21:29:17,Takeaway,Uber Eats,Soft Drink (330ml),2,1.73,1.0,0.5,2.96,Completed,Card,B1 3ZB,On Time,Person
+746,34,2025-07-10 13:15:09,Takeaway,Just Eat,Bottled Water (500ml),1,1.41,2.0,0.5,0.0,Completed,Apple Pay,NE34 1QD,On Time,Person
+747,5,2025-07-10 22:38:57,Takeaway,Website,Veggie Curry,2,9.71,1.5,0.0,17.92,Completed,Cash,GL5M 7DU,On Time,Person
+748,26,2025-07-17 13:01:15,Takeaway,Just Eat,Egg Fried Rice,4,3.93,1.0,0.5,15.22,Completed,Card,SG1 9NY,Late,Delivery Service
+749,13,2025-07-02 12:16:50,Takeaway,Deliveroo,Veggie Curry,3,8.96,0.0,0.0,26.88,Completed,Google Pay,L5 6AX,On Time,Delivery Service
+750,2,2025-06-12 03:50:37,Takeaway,Just Eat,Chicken Kebab,3,7.57,0.0,0.0,22.71,Completed,Apple Pay,B83 8AW,On Time,Delivery Service
